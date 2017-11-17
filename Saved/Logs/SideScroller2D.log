@@ -1,0 +1,1526 @@
+﻿Log file open, 11/13/17 21:04:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SideScroller2D
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1466705706) SRandInit(1466705706).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.714243
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.14-02.04.09:168][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.14-02.04.09:168][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.14-02.04.09:179][  0]LogInit: Computer: BRYAN-PC
+[2017.11.14-02.04.09:179][  0]LogInit: User: Bryan
+[2017.11.14-02.04.09:179][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.14-02.04.09:179][  0]LogInit: High frequency timer resolution =3.410302 MHz
+[2017.11.14-02.04.09:180][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.11.14-02.04.09:180][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.14-02.04.09:180][  0]LogMemory: Process Physical Memory: 280.42 MB used, 280.42 MB peak
+[2017.11.14-02.04.09:180][  0]LogMemory: Process Virtual Memory: 285.34 MB used, 285.34 MB peak
+[2017.11.14-02.04.09:180][  0]LogMemory: Physical Memory: 8520.92 MB used,  7844.61 MB free, 16365.53 MB total
+[2017.11.14-02.04.09:180][  0]LogMemory: Virtual Memory: 664.43 MB used,  7844.61 MB free, 8388608.00 MB total
+[2017.11.14-02.04.09:428][  0]LogInit: Using OS detected language (en-US).
+[2017.11.14-02.04.09:428][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.14-02.04.09:436][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.14-02.04.10:410][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.14-02.04.10:903][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2017.11.14-02.04.10:903][  0]LogD3D11RHI:       1990/0/7926 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.14-02.04.10:903][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.14-02.04.10:908][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.14-02.04.10:908][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.14-02.04.10:908][  0]LogWindows: EnumDisplayDevices:
+[2017.11.14-02.04.10:908][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2017.11.14-02.04.10:908][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.11.14-02.04.10:909][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.11.14-02.04.10:909][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.11.14-02.04.10:909][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.11.14-02.04.10:909][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.11.14-02.04.10:909][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.11.14-02.04.10:909][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.14-02.04.10:909][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2017.11.14-02.04.10:909][  0]LogD3D11RHI:   Driver Version: 381.89 (internal:22.21.13.8189, unified:381.89)
+[2017.11.14-02.04.10:909][  0]LogD3D11RHI:      Driver Date: 4-19-2017
+[2017.11.14-02.04.10:909][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.14-02.04.11:390][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.14-02.04.11:437][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.14-02.04.11:541][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/Bryan/Desktop/BmanSideScroller/Intermediate/Shaders/WorkingDirectory/11100/).
+[2017.11.14-02.04.11:541][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bryan/AppData/Local/Temp/UnrealShaderWorkingDir/AC7B671545633A0BD405589939E7A638/'.
+[2017.11.14-02.04.11:541][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.14-02.04.12:713][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.14-02.04.12:769][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.14-02.04.12:836][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.14-02.04.12:891][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.14-02.04.12:945][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.14-02.04.13:001][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.14-02.04.13:057][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.14-02.04.13:110][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.14-02.04.13:157][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.14-02.04.13:212][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.14-02.04.13:265][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.14-02.04.13:319][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.14-02.04.13:369][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.14-02.04.13:419][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.14-02.04.13:470][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.14-02.04.13:574][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.14-02.04.13:574][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.14-02.04.13:615][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.14-02.04.13:710][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.14-02.04.13:740][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.14-02.04.13:791][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.14-02.04.13:842][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.14-02.04.13:895][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.14-02.04.13:948][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.14-02.04.13:948][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.14-02.04.14:457][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.14-02.04.14:791][  0]LogDerivedDataCache: Loaded boot cache 0.33s 93MB C:/Users/Bryan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.14-02.04.14:791][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bryan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.14-02.04.14:791][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bryan/Desktop/BmanSideScroller/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.14-02.04.14:791][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.14-02.04.14:791][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bryan/Desktop/BmanSideScroller/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.14-02.04.14:791][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.14-02.04.14:814][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.14-02.04.14:825][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.14-02.04.14:839][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.14-02.04.14:843][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.14-02.04.14:846][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.14-02.04.14:847][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.14-02.04.15:562][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2017.11.14-02.04.15:798][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.14-02.04.15:809][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.14-02.04.16:266][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.14-02.04.16:312][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.14-02.04.16:312][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.14-02.04.16:312][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.14-02.04.16:312][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.14-02.04.16:312][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.14-02.04.16:857][  0]LogNetVersion: SideScroller2D , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3390668775)
+[2017.11.14-02.04.17:145][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.035590 seconds
+[2017.11.14-02.04.17:152][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.14-02.04.17:152][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.14-02.04.17:152][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.14-02.04.17:212][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.14-02.04.20:961][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.14-02.04.21:001][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.14-02.04.21:697][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.14-02.04.22:142][  0]SourceControl: Source control is disabled
+[2017.11.14-02.04.22:142][  0]SourceControl: Source control is disabled
+[2017.11.14-02.04.22:193][  0]SourceControl: Source control is disabled
+[2017.11.14-02.04.22:240][  0]SourceControl: Source control is disabled
+[2017.11.14-02.04.22:822][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.14-02.04.23:055][  0]LogOcInput: OculusInput pre-init called
+[2017.11.14-02.04.23:327][  0]LogEngine: Initializing Engine...
+[2017.11.14-02.04.23:329][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.14-02.04.23:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.14-02.04.23:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.14-02.04.23:761][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.14-02.04.23:781][  0]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.04.23:803][  0]LogInit: FAudioDevice initialized.
+[2017.11.14-02.04.23:890][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/Bryan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.14-02.04.23:912][  0]LogInit: Texture streaming: Enabled
+[2017.11.14-02.04.24:022][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.14-02.04.24:022][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={53133B9E-4989-BDB4-0158-34862E5C9BDC}
+[2017.11.14-02.04.24:295][  0]LogInit: Transaction tracking system initialized
+[2017.11.14-02.04.24:615][  0]BlueprintLog: New page: Editor Load
+[2017.11.14-02.04.25:574][  0]LocalizationService: Localization service is disabled
+[2017.11.14-02.04.26:282][  0]LogConsoleResponse: Display: 
+[2017.11.14-02.04.26:531][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.14-02.04.26:531][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.14-02.04.26:532][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.14-02.04.27:596][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Content/' took 0.02s
+[2017.11.14-02.04.27:596][  0]SourceControl: Source control is disabled
+[2017.11.14-02.04.27:683][  0]LogSlate: Took 0.001132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.14-02.04.40:378][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.14-02.04.40:378][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.14-02.04.42:676][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.14-02.04.42:676][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.14-02.04.42:680][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.14-02.04.42:682][  0]LightingResults: New page: Lighting Build
+[2017.11.14-02.04.42:745][  0]MapCheck: New page: Map Check
+[2017.11.14-02.04.42:745][  0]LightingResults: New page: Lighting Build
+[2017.11.14-02.04.43:397][  0]LogBlueprint: Warning: [Compiler BP_EnemyShot2] Node  Bullet Damage . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2017.11.14-02.04.43:494][  0]LogBlueprint: Warning: [Compiler BP_EnemyShot2] [0036.72] Compile of BP_EnemyShot2 successful, but with 1 Warning(s) [in 153 ms] (/Game/8BitSideScroller/Blueprint/BP_EnemyShot2.BP_EnemyShot2)
+[2017.11.14-02.04.44:410][  0]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.04.44:436][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.14-02.04.44:465][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.14-02.04.44:531][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.548ms to complete.
+[2017.11.14-02.04.44:532][  0]LogFileHelpers: Loading map 'Level_01' took 1.852
+[2017.11.14-02.04.44:694][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_18f0_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2f90_0///####STATCAT_Advanced####
+[2017.11.14-02.04.44:694][  0]LogCollectionManager: Loaded 0 collections in 0.001464 seconds
+[2017.11.14-02.04.44:789][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Saved/Collections/' took 0.01s
+[2017.11.14-02.04.44:789][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Content/Developers/Bryan/Collections/' took 0.01s
+[2017.11.14-02.04.44:789][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Content/Collections/' took 0.01s
+[2017.11.14-02.04.44:790][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.14-02.04.44:800][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2386 classes and 500 folders.
+[2017.11.14-02.04.44:864][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.11.14-02.04.44:950][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.11.14-02.04.45:006][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.14-02.04.45:155][  0]LogSlate: Took 0.001324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.14-02.04.45:163][  0]LogSlate: Took 0.000986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.14-02.04.45:288][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.14-02.04.45:540][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.11.14-02.04.45:540][  0]LogLoad: (Engine Initialization) Total time: 38.76 seconds
+[2017.11.14-02.04.45:540][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.14-02.04.45:540][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.14-02.04.45:540][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.14-02.04.45:589][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.14-02.04.45:665][  1]LogAssetRegistry: Asset discovery search completed in 30.1228 seconds
+[2017.11.14-02.04.45:668][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.14-02.04.45:668][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2017.11.14-02.04.46:580][ 68]LogSlate: Took 0.001283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.14-02.04.49:313][304]LogEditorViewport: Clicking Background
+[2017.11.14-02.04.49:636][332]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.14-02.04.50:654][431]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Content/' took 5.09s
+[2017.11.14-02.04.58:436][111]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2017.11.14-02.04.58:436][111]LogSynthBenchmark: Display: ===============
+[2017.11.14-02.04.58:436][111]LogSynthBenchmark: Display: Main Processor:
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:          ... 0.022664 s/Run 'RayIntersect'
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:          ... 0.024275 s/Run 'Fractal'
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display: 
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 16
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   CPU Perf Index 0: 113.0 (weight 1.00)
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   CPU Perf Index 1: 117.8 (weight 1.50)
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:  
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display: Graphics:
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 760'
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   Device Id: 0x1187
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2017.11.14-02.04.58:671][111]LogSynthBenchmark: Display:   GPU Memory: 1991/0/7927 MB
+[2017.11.14-02.04.58:767][111]LogSynthBenchmark: Display:   GPU first test: 0.03s
+[2017.11.14-02.04.58:767][111]LogSynthBenchmark: Display:          ... 2.874 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2017.11.14-02.04.58:767][111]LogSynthBenchmark: Display:          ... 4.304 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2017.11.14-02.04.58:767][111]LogSynthBenchmark: Display:          ... 2.396 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2017.11.14-02.04.58:767][111]LogSynthBenchmark: Display:          ... 10.035 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2017.11.14-02.04.58:767][111]LogSynthBenchmark: Display:          ... 0.630 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2017.11.14-02.04.58:767][111]LogSynthBenchmark: Display:          ... 1.470 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2017.11.14-02.04.58:767][111]LogSynthBenchmark: Display:          ... 2.493 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2017.11.14-02.04.59:027][111]LogSynthBenchmark: Display:   GPU second test: 0.20s
+[2017.11.14-02.04.59:027][111]LogSynthBenchmark: Display:          ... 3.439 s/GigaPix, Confidence=89% 'ALUHeavyNoise' (likely to be inaccurate)
+[2017.11.14-02.04.59:027][111]LogSynthBenchmark: Display:          ... 5.747 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be inaccurate)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 2.998 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 18.779 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 0.751 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 1.245 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 2.362 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   GPU Final Results:
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 3.439 s/GigaPix, Confidence=89% 'ALUHeavyNoise'
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 5.747 s/GigaPix, Confidence=89% 'TexHeavy'
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 2.998 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 18.779 s/GigaPix, Confidence=100% 'FillOnly'
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 0.751 s/GigaPix, Confidence=100% 'Bandwidth'
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 1.245 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... 2.362 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display: 
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   GPU Perf Index 0: 74.7 (weight 1.00)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   GPU Perf Index 1: 77.2 (weight 0.10)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   GPU Perf Index 2: 77.9 (weight 0.10)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   GPU Perf Index 3: 73.8 (weight 3.00)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   GPU Perf Index 4: 70.1 (weight 1.00)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   GPU Perf Index 5: 81.0 (weight 0.00)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   GPU Perf Index 6: 133.7 (weight 0.00)
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   CPUIndex: 115.9
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:   GPUIndex: 73.4
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display: 
+[2017.11.14-02.04.59:028][111]LogSynthBenchmark: Display:          ... Total Time: 0.592195 sec
+[2017.11.14-02.05.04:359][556]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.14-02.05.04:468][556]LogSlate: Took 0.001279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.14-02.05.04:546][556]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:1).
+[2017.11.14-02.05.25:566][965]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.14-02.05.28:634][170]LogEditorFactories: Performing atomic reimport of [C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png]
+[2017.11.14-02.05.28:634][170]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png)
+[2017.11.14-02.05.28:674][170]LogTexture: Display: Building textures: TileMapTemplate (BGRA8, 1024X1024)
+[2017.11.14-02.05.28:883][170]LogEditorFactories: -- imported successfully
+[2017.11.14-02.14.46:173][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/8BitSideScroller/Maps/Level_01' took 0.015
+[2017.11.14-02.14.46:175][288]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate] ([1] browsable assets)...
+[2017.11.14-02.14.46:186][288]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.TileMapTemplate]
+[2017.11.14-02.14.46:186][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate]
+[2017.11.14-02.14.46:298][288]LogSavePackage: Save=7.53ms
+[2017.11.14-02.14.46:298][288]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/TileMapTemplate_Auto1E7568D3B41339ED6A15CD4BA28A63D9B.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_Auto1.uasset'
+[2017.11.14-02.14.46:299][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_Auto1.uasset
+[2017.11.14-02.14.46:299][288]LogFileHelpers: Auto-saving content packages took 0.126
+[2017.11.14-02.17.43:479][820]AssetReimport: New page: Outstanding source content changes 4:17:43 PM
+[2017.11.14-02.17.43:480][820]LogEditorFactories: Performing atomic reimport of [C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png]
+[2017.11.14-02.17.43:480][820]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png)
+[2017.11.14-02.17.43:722][820]LogEditorFactories: -- imported successfully
+[2017.11.14-02.17.46:806][950]AssetReimport: Reimported asset TileMapTemplate from C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png.
+[2017.11.14-02.20.09:696][828]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.20.09:766][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.20.09:767][828]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:20:09 PM)
+[2017.11.14-02.20.09:767][828]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.20.09:773][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006038s)
+[2017.11.14-02.20.09:774][828]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.20.09:774][828]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2017.11.14-02.20.09:774][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007316s)
+[2017.11.14-02.20.09:794][828]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.20.09:801][828]LogInit: FAudioDevice initialized.
+[2017.11.14-02.20.09:845][828]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.20.09:852][828]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.20.09
+[2017.11.14-02.20.09:853][828]LogWorld: Bringing up level for play took: 0.006343
+[2017.11.14-02.20.09:901][828]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.11.14-02.20.09:908][828]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.729
+[2017.11.14-02.20.24:547][169]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.20.24:573][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.20.24:573][169]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:20:24 PM)
+[2017.11.14-02.20.24:573][169]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.20.24:579][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006224s)
+[2017.11.14-02.20.24:580][169]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.20.24:580][169]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2017.11.14-02.20.24:580][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007317s)
+[2017.11.14-02.20.24:601][169]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.20.24:605][169]LogInit: FAudioDevice initialized.
+[2017.11.14-02.20.24:641][169]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.20.24:645][169]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.20.24
+[2017.11.14-02.20.24:646][169]LogWorld: Bringing up level for play took: 0.004453
+[2017.11.14-02.20.24:650][169]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.012
+[2017.11.14-02.20.27:867][447]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.20.27:891][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.20.27:891][447]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:20:27 PM)
+[2017.11.14-02.20.27:891][447]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.20.27:900][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008197s)
+[2017.11.14-02.20.27:901][447]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.20.27:901][447]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2017.11.14-02.20.27:901][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.010071s)
+[2017.11.14-02.20.27:919][447]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.20.27:923][447]LogInit: FAudioDevice initialized.
+[2017.11.14-02.20.27:959][447]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.20.27:963][447]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.20.27
+[2017.11.14-02.20.27:965][447]LogWorld: Bringing up level for play took: 0.005012
+[2017.11.14-02.20.27:969][447]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.668
+[2017.11.14-02.20.47:561][263]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.20.47:586][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.20.47:586][263]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:20:47 PM)
+[2017.11.14-02.20.47:586][263]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.20.47:591][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004912s)
+[2017.11.14-02.20.47:591][263]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.20.47:592][263]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2017.11.14-02.20.47:592][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006116s)
+[2017.11.14-02.20.47:612][263]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.20.47:619][263]LogInit: FAudioDevice initialized.
+[2017.11.14-02.20.47:649][263]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.20.47:655][263]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.20.47
+[2017.11.14-02.20.47:656][263]LogWorld: Bringing up level for play took: 0.006206
+[2017.11.14-02.20.47:659][263]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 1.02
+[2017.11.14-02.21.08:703][173]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.21.08:727][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.21.08:727][173]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:21:08 PM)
+[2017.11.14-02.21.08:727][173]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.21.08:733][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005424s)
+[2017.11.14-02.21.08:734][173]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.21.08:734][173]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2017.11.14-02.21.08:734][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006891s)
+[2017.11.14-02.21.08:755][173]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.21.08:760][173]LogInit: FAudioDevice initialized.
+[2017.11.14-02.21.08:796][173]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.21.08:801][173]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.21.08
+[2017.11.14-02.21.08:802][173]LogWorld: Bringing up level for play took: 0.005676
+[2017.11.14-02.21.08:805][173]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.166
+[2017.11.14-02.21.11:659][420]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.21.11:683][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.21.11:684][420]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:21:11 PM)
+[2017.11.14-02.21.11:684][420]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.21.11:689][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005162s)
+[2017.11.14-02.21.11:690][420]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.21.11:690][420]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2017.11.14-02.21.11:690][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006195s)
+[2017.11.14-02.21.11:707][420]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.21.11:713][420]LogInit: FAudioDevice initialized.
+[2017.11.14-02.21.11:747][420]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.21.11:753][420]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.21.11
+[2017.11.14-02.21.11:754][420]LogWorld: Bringing up level for play took: 0.005663
+[2017.11.14-02.21.11:756][420]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.883
+[2017.11.14-02.21.31:429][221]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.21.31:452][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.21.31:453][221]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:21:31 PM)
+[2017.11.14-02.21.31:453][221]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.21.31:458][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004957s)
+[2017.11.14-02.21.31:458][221]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.21.31:459][221]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2017.11.14-02.21.31:459][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006208s)
+[2017.11.14-02.21.31:476][221]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.21.31:482][221]LogInit: FAudioDevice initialized.
+[2017.11.14-02.21.31:513][221]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.21.31:518][221]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.21.31
+[2017.11.14-02.21.31:519][221]LogWorld: Bringing up level for play took: 0.004803
+[2017.11.14-02.21.31:522][221]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.882
+[2017.11.14-02.22.31:058][769]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.22.31:079][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.22.31:079][769]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:22:31 PM)
+[2017.11.14-02.22.31:079][769]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.22.31:086][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007282s)
+[2017.11.14-02.22.31:087][769]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.22.31:087][769]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2017.11.14-02.22.31:087][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008525s)
+[2017.11.14-02.22.31:107][769]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.22.31:112][769]LogInit: FAudioDevice initialized.
+[2017.11.14-02.22.31:142][769]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.22.31:147][769]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.22.31
+[2017.11.14-02.22.31:148][769]LogWorld: Bringing up level for play took: 0.004795
+[2017.11.14-02.22.31:152][769]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.511
+[2017.11.14-02.22.34:762][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.22.34:785][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.22.34:786][ 81]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:22:34 PM)
+[2017.11.14-02.22.34:786][ 81]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.22.34:791][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005543s)
+[2017.11.14-02.22.34:792][ 81]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.22.34:792][ 81]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2017.11.14-02.22.34:792][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006698s)
+[2017.11.14-02.22.34:810][ 81]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.22.34:816][ 81]LogInit: FAudioDevice initialized.
+[2017.11.14-02.22.34:847][ 81]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.22.34:852][ 81]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.22.34
+[2017.11.14-02.22.34:853][ 81]LogWorld: Bringing up level for play took: 0.004783
+[2017.11.14-02.22.34:857][ 81]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.216
+[2017.11.14-02.22.37:796][334]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.22.37:819][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.22.37:819][334]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:22:37 PM)
+[2017.11.14-02.22.37:819][334]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.22.37:825][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005790s)
+[2017.11.14-02.22.37:826][334]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.22.37:826][334]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2017.11.14-02.22.37:826][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006918s)
+[2017.11.14-02.22.37:843][334]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.22.37:850][334]LogInit: FAudioDevice initialized.
+[2017.11.14-02.22.37:886][334]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.22.37:890][334]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.22.37
+[2017.11.14-02.22.37:891][334]LogWorld: Bringing up level for play took: 0.004238
+[2017.11.14-02.22.37:893][334]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.748
+[2017.11.14-02.22.51:534][584]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.22.51:557][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.22.51:557][584]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:22:51 PM)
+[2017.11.14-02.22.51:557][584]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.22.51:561][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004160s)
+[2017.11.14-02.22.51:562][584]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.22.51:562][584]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2017.11.14-02.22.51:562][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.005297s)
+[2017.11.14-02.22.51:580][584]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.22.51:586][584]LogInit: FAudioDevice initialized.
+[2017.11.14-02.22.51:618][584]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.22.51:622][584]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.22.51
+[2017.11.14-02.22.51:623][584]LogWorld: Bringing up level for play took: 0.004903
+[2017.11.14-02.22.51:626][584]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.984
+[2017.11.14-02.22.55:284][907]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.22.55:306][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.22.55:306][907]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:22:55 PM)
+[2017.11.14-02.22.55:306][907]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.22.55:311][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004639s)
+[2017.11.14-02.22.55:312][907]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.22.55:312][907]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2017.11.14-02.22.55:312][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.005927s)
+[2017.11.14-02.22.55:329][907]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.22.55:335][907]LogInit: FAudioDevice initialized.
+[2017.11.14-02.22.55:369][907]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.22.55:373][907]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.22.55
+[2017.11.14-02.22.55:374][907]LogWorld: Bringing up level for play took: 0.004041
+[2017.11.14-02.22.55:377][907]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.735
+[2017.11.14-02.23.13:326][563]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.23.13:349][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.23.13:349][563]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:23:13 PM)
+[2017.11.14-02.23.13:349][563]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.23.13:355][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005891s)
+[2017.11.14-02.23.13:356][563]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.23.13:356][563]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2017.11.14-02.23.13:356][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007146s)
+[2017.11.14-02.23.13:377][563]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.23.13:383][563]LogInit: FAudioDevice initialized.
+[2017.11.14-02.23.13:418][563]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.23.13:422][563]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.23.13
+[2017.11.14-02.23.13:423][563]LogWorld: Bringing up level for play took: 0.004219
+[2017.11.14-02.23.13:426][563]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.784
+[2017.11.14-02.23.17:092][876]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.23.17:118][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.23.17:118][876]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:23:17 PM)
+[2017.11.14-02.23.17:118][876]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.23.17:124][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005862s)
+[2017.11.14-02.23.17:125][876]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.23.17:125][876]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2017.11.14-02.23.17:126][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007179s)
+[2017.11.14-02.23.17:145][876]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.23.17:151][876]LogInit: FAudioDevice initialized.
+[2017.11.14-02.23.17:185][876]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.23.17:189][876]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.23.17
+[2017.11.14-02.23.17:190][876]LogWorld: Bringing up level for play took: 0.004322
+[2017.11.14-02.23.17:193][876]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.551
+[2017.11.14-02.23.20:859][202]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.23.20:882][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.23.20:882][202]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:23:20 PM)
+[2017.11.14-02.23.20:883][202]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.23.20:888][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005191s)
+[2017.11.14-02.23.20:888][202]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.23.20:889][202]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2017.11.14-02.23.20:889][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006276s)
+[2017.11.14-02.23.20:908][202]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.23.20:914][202]LogInit: FAudioDevice initialized.
+[2017.11.14-02.23.20:947][202]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.23.20:951][202]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.23.20
+[2017.11.14-02.23.20:952][202]LogWorld: Bringing up level for play took: 0.004525
+[2017.11.14-02.23.20:955][202]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.314
+[2017.11.14-02.23.24:521][521]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.23.24:542][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.23.24:543][521]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:23:24 PM)
+[2017.11.14-02.23.24:543][521]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.23.24:549][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005976s)
+[2017.11.14-02.23.24:550][521]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.23.24:550][521]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2017.11.14-02.23.24:550][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007412s)
+[2017.11.14-02.23.24:571][521]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.23.24:576][521]LogInit: FAudioDevice initialized.
+[2017.11.14-02.23.24:608][521]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.23.24:613][521]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.23.24
+[2017.11.14-02.23.24:614][521]LogWorld: Bringing up level for play took: 0.005020
+[2017.11.14-02.23.24:618][521]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.025
+[2017.11.14-02.23.27:976][820]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.23.28:001][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.23.28:001][820]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:23:28 PM)
+[2017.11.14-02.23.28:001][820]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.23.28:006][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005327s)
+[2017.11.14-02.23.28:007][820]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.23.28:007][820]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2017.11.14-02.23.28:007][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006433s)
+[2017.11.14-02.23.28:027][820]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.23.28:033][820]LogInit: FAudioDevice initialized.
+[2017.11.14-02.23.28:068][820]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.23.28:072][820]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.23.28
+[2017.11.14-02.23.28:074][820]LogWorld: Bringing up level for play took: 0.005712
+[2017.11.14-02.23.28:076][820]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.566
+[2017.11.14-02.23.31:416][115]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.23.31:439][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.23.31:439][115]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:23:31 PM)
+[2017.11.14-02.23.31:439][115]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.23.31:444][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004619s)
+[2017.11.14-02.23.31:445][115]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.23.31:445][115]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2017.11.14-02.23.31:445][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.005809s)
+[2017.11.14-02.23.31:466][115]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.23.31:472][115]LogInit: FAudioDevice initialized.
+[2017.11.14-02.23.31:506][115]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.23.31:509][115]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.23.31
+[2017.11.14-02.23.31:510][115]LogWorld: Bringing up level for play took: 0.004063
+[2017.11.14-02.23.31:514][115]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.871
+[2017.11.14-02.23.39:100][809]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.23.39:124][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.23.39:124][809]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:23:39 PM)
+[2017.11.14-02.23.39:124][809]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.23.39:128][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004352s)
+[2017.11.14-02.23.39:129][809]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.23.39:130][809]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2017.11.14-02.23.39:130][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006229s)
+[2017.11.14-02.23.39:146][809]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.23.39:151][809]LogInit: FAudioDevice initialized.
+[2017.11.14-02.23.39:184][809]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.23.39:188][809]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.23.39
+[2017.11.14-02.23.39:189][809]LogWorld: Bringing up level for play took: 0.004480
+[2017.11.14-02.23.39:192][809]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.55
+[2017.11.14-02.24.19:945][291]LogSlate: Took 0.001057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.14-02.24.27:109][864]LogEditorViewport: Clicking Background
+[2017.11.14-02.24.27:636][914]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms)
+[2017.11.14-02.24.34:938][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.24.34:939][472]PIE: New page: SIE session: Level_01 (Nov 13, 2017, 4:24:34 PM)
+[2017.11.14-02.24.34:939][472]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.24.34:944][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005500s)
+[2017.11.14-02.24.34:945][472]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.24.34:945][472]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2017.11.14-02.24.34:946][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006899s)
+[2017.11.14-02.24.34:967][472]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.24.34:972][472]LogInit: FAudioDevice initialized.
+[2017.11.14-02.24.35:006][472]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.24.35:011][472]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.24.35
+[2017.11.14-02.24.35:012][472]LogWorld: Bringing up level for play took: 0.005468
+[2017.11.14-02.24.35:015][472]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.371
+[2017.11.14-02.24.48:757][647]LogEditorViewport: Clicking Background
+[2017.11.14-02.24.49:504][719]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms)
+[2017.11.14-02.24.50:357][785]Cmd: EDIT COPY
+[2017.11.14-02.24.50:755][816]LogEditorViewport: Clicking Background
+[2017.11.14-02.24.51:043][843]Cmd: EDIT PASTE
+[2017.11.14-02.24.58:291][420]Cmd: EDIT PASTE
+[2017.11.14-02.25.01:791][694]Cmd: EDIT PASTE
+[2017.11.14-02.25.06:397][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms2)
+[2017.11.14-02.25.08:193][196]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms3)
+[2017.11.14-02.25.12:405][528]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms4)
+[2017.11.14-02.25.16:811][872]LogTemp: Repeating last play command: Simulate
+[2017.11.14-02.25.16:835][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.25.16:835][872]PIE: New page: SIE session: Level_01 (Nov 13, 2017, 4:25:16 PM)
+[2017.11.14-02.25.16:835][872]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.25.16:841][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005819s)
+[2017.11.14-02.25.16:842][872]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.25.16:842][872]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2017.11.14-02.25.16:842][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007217s)
+[2017.11.14-02.25.16:866][872]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.25.16:872][872]LogInit: FAudioDevice initialized.
+[2017.11.14-02.25.16:907][872]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.25.16:912][872]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.25.16
+[2017.11.14-02.25.16:914][872]LogWorld: Bringing up level for play took: 0.005464
+[2017.11.14-02.25.16:915][872]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.271
+[2017.11.14-02.25.30:600][139]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms4)
+[2017.11.14-02.25.39:675][855]LogTemp: Repeating last play command: Simulate
+[2017.11.14-02.25.39:697][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.25.39:697][855]PIE: New page: SIE session: Level_01 (Nov 13, 2017, 4:25:39 PM)
+[2017.11.14-02.25.39:697][855]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.25.39:703][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005688s)
+[2017.11.14-02.25.39:704][855]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.25.39:704][855]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2017.11.14-02.25.39:704][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.006871s)
+[2017.11.14-02.25.39:723][855]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.25.39:728][855]LogInit: FAudioDevice initialized.
+[2017.11.14-02.25.39:759][855]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.25.39:764][855]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.25.39
+[2017.11.14-02.25.39:766][855]LogWorld: Bringing up level for play took: 0.005937
+[2017.11.14-02.25.39:768][855]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.877
+[2017.11.14-02.25.47:471][572]LogEditorViewport: Clicking Background
+[2017.11.14-02.25.49:403][744]LogEditorViewport: Clicking Background
+[2017.11.14-02.25.51:174][884]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms)
+[2017.11.14-02.25.51:973][943]Cmd: EDIT COPY
+[2017.11.14-02.25.52:648][996]LogEditorViewport: Clicking Background
+[2017.11.14-02.25.52:919][ 21]Cmd: EDIT PASTE
+[2017.11.14-02.26.09:393][300]Cmd: EDIT PASTE
+[2017.11.14-02.26.16:696][870]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms5)
+[2017.11.14-02.26.17:214][908]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms6)
+[2017.11.14-02.26.17:970][966]Cmd: EDIT COPY
+[2017.11.14-02.26.18:569][ 14]Cmd: EDIT PASTE
+[2017.11.14-02.26.22:960][369]LogEditorViewport: Clicking Background
+[2017.11.14-02.26.23:338][403]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms8)
+[2017.11.14-02.26.25:702][585]LogEditorViewport: Clicking Background
+[2017.11.14-02.26.25:958][609]LogEditorViewport: Clicking Background
+[2017.11.14-02.26.28:439][833]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms7)
+[2017.11.14-02.26.29:097][881]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms8)
+[2017.11.14-02.26.30:442][986]Cmd: EDIT COPY
+[2017.11.14-02.26.31:204][ 47]Cmd: EDIT PASTE
+[2017.11.14-02.26.37:453][542]LogEditorViewport: Clicking Background
+[2017.11.14-02.26.39:837][769]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms10)
+[2017.11.14-02.26.42:259][956]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms8)
+[2017.11.14-02.26.43:101][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms9)
+[2017.11.14-02.26.43:769][ 69]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms10)
+[2017.11.14-02.26.47:735][390]LogEditorViewport: Clicking Background
+[2017.11.14-02.26.48:354][449]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms10)
+[2017.11.14-02.26.53:104][823]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms7)
+[2017.11.14-02.26.53:601][860]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms8)
+[2017.11.14-02.26.54:317][913]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms9)
+[2017.11.14-02.26.55:595][ 13]Cmd: EDIT COPY
+[2017.11.14-02.26.56:057][ 50]LogEditorViewport: Clicking Background
+[2017.11.14-02.26.56:470][ 87]Cmd: EDIT PASTE
+[2017.11.14-02.27.01:439][479]Cmd: EDIT PASTE
+[2017.11.14-02.27.06:779][900]LogEditorViewport: Clicking Background
+[2017.11.14-02.27.07:272][946]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms17)
+[2017.11.14-02.27.08:488][ 39]Cmd: EDIT COPY
+[2017.11.14-02.27.09:174][ 92]Cmd: EDIT PASTE
+[2017.11.14-02.27.12:299][333]Cmd: EDIT PASTE
+[2017.11.14-02.27.16:371][646]LogEditorViewport: Clicking Background
+[2017.11.14-02.27.19:141][906]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms19)
+[2017.11.14-02.27.21:042][ 55]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms17)
+[2017.11.14-02.27.21:992][129]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms15)
+[2017.11.14-02.27.23:036][210]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms13)
+[2017.11.14-02.27.24:218][301]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms11)
+[2017.11.14-02.27.25:308][385]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms9)
+[2017.11.14-02.27.26:350][467]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms7)
+[2017.11.14-02.27.27:992][599]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms5)
+[2017.11.14-02.27.33:040][ 19]LogEditorViewport: Clicking Background
+[2017.11.14-02.27.33:809][ 85]LogTemp: Repeating last play command: Simulate
+[2017.11.14-02.27.33:834][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.27.33:834][ 85]PIE: New page: SIE session: Level_01 (Nov 13, 2017, 4:27:33 PM)
+[2017.11.14-02.27.33:834][ 85]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.27.33:842][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007771s)
+[2017.11.14-02.27.33:843][ 85]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.27.33:844][ 85]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2017.11.14-02.27.33:844][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009390s)
+[2017.11.14-02.27.33:872][ 85]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.27.33:877][ 85]LogInit: FAudioDevice initialized.
+[2017.11.14-02.27.33:907][ 85]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.27.33:913][ 85]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.27.33
+[2017.11.14-02.27.33:914][ 85]LogWorld: Bringing up level for play took: 0.006318
+[2017.11.14-02.27.33:915][ 85]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.733
+[2017.11.14-02.28.10:294][495]LogSavePackage: Save=139.78ms
+[2017.11.14-02.28.10:294][495]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_01_Auto23F05A8BA413476BA690C85B98B08FF72.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Maps/Level_01_Auto2.umap'
+[2017.11.14-02.28.10:296][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Maps/Level_01_Auto2.umap
+[2017.11.14-02.28.10:298][495]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/8BitSideScroller/Maps/Level_01' took 0.211
+[2017.11.14-02.28.10:298][495]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.211
+[2017.11.14-02.28.10:300][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap] ([1] browsable assets)...
+[2017.11.14-02.28.10:300][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap]
+[2017.11.14-02.28.10:415][495]LogSavePackage: Save=63.40ms
+[2017.11.14-02.28.10:415][495]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Mechanical_TileMap_Auto2A7249C3345DE8BADFD98B39AF8D750EA.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap_Auto2.uasset'
+[2017.11.14-02.28.10:415][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap_Auto2.uasset
+[2017.11.14-02.28.10:416][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_TileSet] ([1] browsable assets)...
+[2017.11.14-02.28.10:427][495]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_TileSet.TileMapTemplate_TileSet]
+[2017.11.14-02.28.10:427][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_TileSet]
+[2017.11.14-02.28.10:498][495]LogSavePackage: Save=12.90ms
+[2017.11.14-02.28.10:498][495]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/TileMapTemplate_TileSet_Auto28F045BF642B2BFF82E850B85F62C8B03.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_TileSet_Auto2.uasset'
+[2017.11.14-02.28.10:499][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_TileSet_Auto2.uasset
+[2017.11.14-02.28.10:500][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate] ([1] browsable assets)...
+[2017.11.14-02.28.10:512][495]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.TileMapTemplate]
+[2017.11.14-02.28.10:512][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate]
+[2017.11.14-02.28.10:571][495]LogSavePackage: Save=5.86ms
+[2017.11.14-02.28.10:571][495]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/TileMapTemplate_Auto233F04E18417260BA1E18DBA55B5F1CB1.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_Auto2.uasset'
+[2017.11.14-02.28.10:572][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_Auto2.uasset
+[2017.11.14-02.28.10:572][495]LogFileHelpers: Auto-saving content packages took 0.273
+[2017.11.14-02.29.19:653][765]LogSavePackage: Save=253.66ms
+[2017.11.14-02.29.19:653][765]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Mechanical_TileMap99D3AF1B4D2122ED91C3C68F4EEB555F.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap.uasset'
+[2017.11.14-02.29.19:656][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap.uasset
+[2017.11.14-02.29.26:286][421]LogEditorViewport: Clicking Background
+[2017.11.14-02.29.26:722][465]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms20)
+[2017.11.14-02.29.29:438][685]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms19)
+[2017.11.14-02.29.33:081][983]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms18)
+[2017.11.14-02.29.37:638][354]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms17)
+[2017.11.14-02.29.40:292][569]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms16)
+[2017.11.14-02.29.50:868][455]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms15)
+[2017.11.14-02.29.54:739][775]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms14)
+[2017.11.14-02.29.57:919][ 32]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms13)
+[2017.11.14-02.30.01:750][348]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms12)
+[2017.11.14-02.30.04:081][538]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms11)
+[2017.11.14-02.30.50:506][481]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms10)
+[2017.11.14-02.30.52:633][650]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms9)
+[2017.11.14-02.30.55:689][899]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms8)
+[2017.11.14-02.30.58:231][105]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms7)
+[2017.11.14-02.31.02:971][490]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms6)
+[2017.11.14-02.31.05:729][715]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms5)
+[2017.11.14-02.31.09:744][ 45]LogEditorViewport: Clicking Background
+[2017.11.14-02.31.10:206][ 92]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms6)
+[2017.11.14-02.31.10:972][152]Cmd: EDIT COPY
+[2017.11.14-02.31.11:438][190]LogEditorViewport: Clicking Background
+[2017.11.14-02.31.12:057][250]Cmd: EDIT PASTE
+[2017.11.14-02.31.16:938][654]LogEditorViewport: Clicking Background
+[2017.11.14-02.31.45:934][703]LogTemp: Repeating last play command: Simulate
+[2017.11.14-02.31.45:954][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.31.45:955][703]PIE: New page: SIE session: Level_01 (Nov 13, 2017, 4:31:45 PM)
+[2017.11.14-02.31.45:955][703]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.31.45:962][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007249s)
+[2017.11.14-02.31.45:963][703]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.31.45:963][703]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2017.11.14-02.31.45:963][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008555s)
+[2017.11.14-02.31.45:989][703]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.31.45:996][703]LogInit: FAudioDevice initialized.
+[2017.11.14-02.31.46:028][703]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.31.46:035][703]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.31.46
+[2017.11.14-02.31.46:037][703]LogWorld: Bringing up level for play took: 0.005757
+[2017.11.14-02.31.46:038][703]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.616
+[2017.11.14-02.31.49:002][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.31.49:003][988]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:31:49 PM)
+[2017.11.14-02.31.49:003][988]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.31.49:012][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008790s)
+[2017.11.14-02.31.49:013][988]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.31.49:013][988]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2017.11.14-02.31.49:013][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.010280s)
+[2017.11.14-02.31.49:033][988]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.31.49:038][988]LogInit: FAudioDevice initialized.
+[2017.11.14-02.31.49:072][988]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.31.49:078][988]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.31.49
+[2017.11.14-02.31.49:080][988]LogWorld: Bringing up level for play took: 0.006523
+[2017.11.14-02.31.49:083][988]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.429
+[2017.11.14-02.31.59:710][132]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.31.59:732][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.31.59:733][132]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:31:59 PM)
+[2017.11.14-02.31.59:733][132]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.31.59:739][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006711s)
+[2017.11.14-02.31.59:741][132]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.31.59:742][132]LogPlayLevel: PIE: World Init took: (0.002291s)
+[2017.11.14-02.31.59:742][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009393s)
+[2017.11.14-02.31.59:759][132]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.31.59:764][132]LogInit: FAudioDevice initialized.
+[2017.11.14-02.31.59:796][132]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.31.59:801][132]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.31.59
+[2017.11.14-02.31.59:803][132]LogWorld: Bringing up level for play took: 0.005769
+[2017.11.14-02.31.59:805][132]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.849
+[2017.11.14-02.32.03:296][497]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.32.03:322][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.32.03:322][497]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:32:03 PM)
+[2017.11.14-02.32.03:322][497]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.32.03:332][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009961s)
+[2017.11.14-02.32.03:333][497]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.32.03:333][497]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2017.11.14-02.32.03:333][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.011364s)
+[2017.11.14-02.32.03:351][497]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.32.03:356][497]LogInit: FAudioDevice initialized.
+[2017.11.14-02.32.03:391][497]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.32.03:397][497]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.32.03
+[2017.11.14-02.32.03:399][497]LogWorld: Bringing up level for play took: 0.007338
+[2017.11.14-02.32.03:402][497]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.748
+[2017.11.14-02.32.39:519][416]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms5)
+[2017.11.14-02.32.45:253][888]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms20)
+[2017.11.14-02.32.46:746][  9]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms19)
+[2017.11.14-02.32.47:194][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms18)
+[2017.11.14-02.32.47:739][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms17)
+[2017.11.14-02.32.48:386][137]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms16)
+[2017.11.14-02.32.49:015][186]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms15)
+[2017.11.14-02.32.49:550][226]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms14)
+[2017.11.14-02.32.50:064][265]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms13)
+[2017.11.14-02.32.50:871][329]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms12)
+[2017.11.14-02.32.51:347][365]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms11)
+[2017.11.14-02.32.51:798][399]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms10)
+[2017.11.14-02.32.52:288][437]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms9)
+[2017.11.14-02.32.52:917][487]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms8)
+[2017.11.14-02.32.53:504][532]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms7)
+[2017.11.14-02.32.54:094][577]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms6)
+[2017.11.14-02.32.54:730][625]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms5)
+[2017.11.14-02.32.55:245][664]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms21)
+[2017.11.14-02.33.01:954][227]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.33.01:979][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.33.01:979][227]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:33:01 PM)
+[2017.11.14-02.33.01:979][227]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.33.01:986][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006651s)
+[2017.11.14-02.33.01:987][227]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.33.01:987][227]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2017.11.14-02.33.01:987][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007890s)
+[2017.11.14-02.33.02:009][227]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.33.02:014][227]LogInit: FAudioDevice initialized.
+[2017.11.14-02.33.02:046][227]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.33.02:052][227]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.33.02
+[2017.11.14-02.33.02:053][227]LogWorld: Bringing up level for play took: 0.005966
+[2017.11.14-02.33.02:056][227]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.6
+[2017.11.14-02.33.06:016][633]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.33.06:038][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.33.06:038][633]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:33:06 PM)
+[2017.11.14-02.33.06:038][633]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.33.06:047][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008627s)
+[2017.11.14-02.33.06:047][633]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.33.06:048][633]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2017.11.14-02.33.06:048][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009845s)
+[2017.11.14-02.33.06:065][633]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.33.06:071][633]LogInit: FAudioDevice initialized.
+[2017.11.14-02.33.06:103][633]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.33.06:108][633]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.33.06
+[2017.11.14-02.33.06:110][633]LogWorld: Bringing up level for play took: 0.006996
+[2017.11.14-02.33.06:113][633]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.542
+[2017.11.14-02.33.26:699][780]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.14-02.33.30:539][ 96]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-02.33.31:403][163]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.33.31:428][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.33.31:428][163]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:33:31 PM)
+[2017.11.14-02.33.31:428][163]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.33.31:437][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009068s)
+[2017.11.14-02.33.31:438][163]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.33.31:439][163]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2017.11.14-02.33.31:439][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.010885s)
+[2017.11.14-02.33.31:456][163]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.33.31:462][163]LogInit: FAudioDevice initialized.
+[2017.11.14-02.33.31:495][163]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.33.31:500][163]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.33.31
+[2017.11.14-02.33.31:501][163]LogWorld: Bringing up level for play took: 0.005336
+[2017.11.14-02.33.31:504][163]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.848
+[2017.11.14-02.33.39:618][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.33.39:643][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.33.39:643][ 21]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:33:39 PM)
+[2017.11.14-02.33.39:643][ 21]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.33.39:650][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006739s)
+[2017.11.14-02.33.39:651][ 21]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.33.39:651][ 21]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2017.11.14-02.33.39:651][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007805s)
+[2017.11.14-02.33.39:677][ 21]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.33.39:682][ 21]LogInit: FAudioDevice initialized.
+[2017.11.14-02.33.39:713][ 21]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.33.39:718][ 21]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.33.39
+[2017.11.14-02.33.39:719][ 21]LogWorld: Bringing up level for play took: 0.005481
+[2017.11.14-02.33.39:721][ 21]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 1.065
+[2017.11.14-02.33.45:632][640]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.33.45:658][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.33.45:658][640]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:33:45 PM)
+[2017.11.14-02.33.45:658][640]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.33.45:667][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008814s)
+[2017.11.14-02.33.45:668][640]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.33.45:668][640]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2017.11.14-02.33.45:668][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.010118s)
+[2017.11.14-02.33.45:688][640]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.33.45:695][640]LogInit: FAudioDevice initialized.
+[2017.11.14-02.33.45:728][640]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.33.45:733][640]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.33.45
+[2017.11.14-02.33.45:734][640]LogWorld: Bringing up level for play took: 0.005273
+[2017.11.14-02.33.45:736][640]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.92
+[2017.11.14-02.33.56:279][764]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.33.56:300][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.33.56:301][764]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:33:56 PM)
+[2017.11.14-02.33.56:301][764]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.33.56:309][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008316s)
+[2017.11.14-02.33.56:310][764]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.33.56:310][764]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2017.11.14-02.33.56:310][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009402s)
+[2017.11.14-02.33.56:327][764]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.33.56:333][764]LogInit: FAudioDevice initialized.
+[2017.11.14-02.33.56:363][764]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.33.56:369][764]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.33.56
+[2017.11.14-02.33.56:370][764]LogWorld: Bringing up level for play took: 0.006014
+[2017.11.14-02.33.56:373][764]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.284
+[2017.11.14-02.34.03:306][500]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.34.03:330][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.34.03:330][500]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:34:03 PM)
+[2017.11.14-02.34.03:330][500]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.34.03:338][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007743s)
+[2017.11.14-02.34.03:339][500]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.34.03:340][500]LogPlayLevel: PIE: World Init took: (0.001659s)
+[2017.11.14-02.34.03:340][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009820s)
+[2017.11.14-02.34.03:359][500]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.34.03:364][500]LogInit: FAudioDevice initialized.
+[2017.11.14-02.34.03:396][500]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.34.03:402][500]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.34.03
+[2017.11.14-02.34.03:404][500]LogWorld: Bringing up level for play took: 0.006566
+[2017.11.14-02.34.03:408][500]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.751
+[2017.11.14-02.34.14:854][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.34.14:854][605]PIE: New page: SIE session: Level_01 (Nov 13, 2017, 4:34:14 PM)
+[2017.11.14-02.34.14:854][605]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.34.14:861][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007222s)
+[2017.11.14-02.34.14:862][605]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.34.14:862][605]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2017.11.14-02.34.14:862][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008415s)
+[2017.11.14-02.34.14:882][605]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.34.14:887][605]LogInit: FAudioDevice initialized.
+[2017.11.14-02.34.14:918][605]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.34.14:926][605]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.34.14
+[2017.11.14-02.34.14:927][605]LogWorld: Bringing up level for play took: 0.008678
+[2017.11.14-02.34.14:929][605]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.272
+[2017.11.14-02.34.28:199][889]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms5)
+[2017.11.14-02.34.29:760][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms21)
+[2017.11.14-02.34.31:363][142]LogEditorViewport: Clicking on Actor (LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms5)
+[2017.11.14-02.34.32:831][261]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms7)
+[2017.11.14-02.34.33:567][320]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms9)
+[2017.11.14-02.34.34:372][384]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms11)
+[2017.11.14-02.34.35:287][457]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms13)
+[2017.11.14-02.34.36:052][518]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms15)
+[2017.11.14-02.34.36:737][570]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms17)
+[2017.11.14-02.34.37:381][618]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_DissapearingPlatforms_C (BP_DissapearingPlatforms19)
+[2017.11.14-02.34.46:857][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.34.46:857][430]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:34:46 PM)
+[2017.11.14-02.34.46:857][430]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.34.46:865][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007336s)
+[2017.11.14-02.34.46:865][430]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.34.46:866][430]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2017.11.14-02.34.46:866][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008593s)
+[2017.11.14-02.34.46:885][430]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.34.46:891][430]LogInit: FAudioDevice initialized.
+[2017.11.14-02.34.46:920][430]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.34.46:927][430]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.34.46
+[2017.11.14-02.34.46:928][430]LogWorld: Bringing up level for play took: 0.007460
+[2017.11.14-02.34.46:931][430]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.273
+[2017.11.14-02.34.55:644][347]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.34.55:668][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.34.55:668][347]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:34:55 PM)
+[2017.11.14-02.34.55:668][347]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.34.55:677][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008639s)
+[2017.11.14-02.34.55:678][347]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.34.55:678][347]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2017.11.14-02.34.55:678][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009795s)
+[2017.11.14-02.34.55:695][347]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.34.55:700][347]LogInit: FAudioDevice initialized.
+[2017.11.14-02.34.55:728][347]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.34.55:733][347]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.34.55
+[2017.11.14-02.34.55:734][347]LogWorld: Bringing up level for play took: 0.005195
+[2017.11.14-02.34.55:737][347]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.921
+[2017.11.14-02.35.03:145][135]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.35.03:166][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.35.03:166][135]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:35:03 PM)
+[2017.11.14-02.35.03:166][135]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.35.03:174][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007930s)
+[2017.11.14-02.35.03:175][135]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.35.03:176][135]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2017.11.14-02.35.03:176][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009521s)
+[2017.11.14-02.35.03:195][135]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.35.03:201][135]LogInit: FAudioDevice initialized.
+[2017.11.14-02.35.03:233][135]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.35.03:240][135]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.35.03
+[2017.11.14-02.35.03:241][135]LogWorld: Bringing up level for play took: 0.006651
+[2017.11.14-02.35.03:244][135]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.585
+[2017.11.14-02.35.11:837][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.14-02.35.11:861][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.14-02.35.11:861][ 32]PIE: New page: PIE session: Level_01 (Nov 13, 2017, 4:35:11 PM)
+[2017.11.14-02.35.11:861][ 32]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.14-02.35.11:868][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006789s)
+[2017.11.14-02.35.11:869][ 32]LogAIModule: Creating AISystem for world Level_01
+[2017.11.14-02.35.11:869][ 32]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2017.11.14-02.35.11:869][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008029s)
+[2017.11.14-02.35.11:888][ 32]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-02.35.11:894][ 32]LogInit: FAudioDevice initialized.
+[2017.11.14-02.35.11:929][ 32]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.14-02.35.11:934][ 32]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.13-21.35.11
+[2017.11.14-02.35.11:935][ 32]LogWorld: Bringing up level for play took: 0.005100
+[2017.11.14-02.35.11:938][ 32]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.72
+[2017.11.14-02.35.46:428][880]LogSavePackage: Save=72.09ms
+[2017.11.14-02.35.46:428][880]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Mechanical_TileMap3ECC59A94A4D48D078E78081D0EFF778.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap.uasset'
+[2017.11.14-02.35.46:430][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap.uasset
+[2017.11.14-02.40.38:888][141]LogSavePackage: Save=122.17ms
+[2017.11.14-02.40.38:888][141]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_01_Auto3A5FE4EA54793624D54625691F0C430EB.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Maps/Level_01_Auto3.umap'
+[2017.11.14-02.40.38:889][141]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Maps/Level_01_Auto3.umap
+[2017.11.14-02.40.38:890][141]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/8BitSideScroller/Maps/Level_01' took 0.184
+[2017.11.14-02.40.38:890][141]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.184
+[2017.11.14-23.51.40:940][811]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{346ed10e-4898-41c3-b6b7-0cfa13351911} was removed. Shutting down audio device.
+[2017.11.16-04.27.07:658][380]AssetReimport: New page: Outstanding source content changes 6:27:07 PM
+[2017.11.16-04.27.07:658][380]LogEditorFactories: Performing atomic reimport of [C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png]
+[2017.11.16-04.27.07:659][380]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png)
+[2017.11.16-04.27.07:928][380]LogEditorFactories: -- imported successfully
+[2017.11.16-04.27.10:979][603]AssetReimport: Reimported asset TileMapTemplate from C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png.
+[2017.11.16-04.27.51:612][665]Cmd: TRANSACTION UNDO
+[2017.11.16-04.27.51:612][665]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-04.27.52:399][705]Cmd: TRANSACTION UNDO
+[2017.11.16-04.27.52:399][705]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-04.27.52:762][726]Cmd: TRANSACTION UNDO
+[2017.11.16-04.27.52:762][726]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-04.27.53:156][748]Cmd: TRANSACTION UNDO
+[2017.11.16-04.27.53:156][748]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-04.28.30:763][993]Cmd: TRANSACTION UNDO
+[2017.11.16-04.28.30:763][993]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-04.29.42:517][312]Cmd: TRANSACTION UNDO
+[2017.11.16-04.29.42:517][312]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-04.29.43:594][372]Cmd: TRANSACTION UNDO
+[2017.11.16-04.29.43:594][372]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-04.30.41:506][914]Cmd: TRANSACTION UNDO
+[2017.11.16-04.30.41:506][914]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-04.32.57:893][117]LogSavePackage: Save=1424.56ms
+[2017.11.16-04.32.57:893][117]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Mechanical_TileMap615788894F6D5AC5136523B82B0205EA.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap.uasset'
+[2017.11.16-04.32.57:896][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap.uasset
+[2017.11.16-04.33.01:254][337]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-04.33.01:284][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-04.33.01:285][337]PIE: New page: PIE session: Level_01 (Nov 15, 2017, 6:33:01 PM)
+[2017.11.16-04.33.01:285][337]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.16-04.33.01:296][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011534s)
+[2017.11.16-04.33.01:297][337]LogAIModule: Creating AISystem for world Level_01
+[2017.11.16-04.33.01:298][337]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2017.11.16-04.33.01:298][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.013094s)
+[2017.11.16-04.33.01:354][337]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-04.33.01:363][337]LogInit: FAudioDevice initialized.
+[2017.11.16-04.33.01:397][337]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.16-04.33.01:439][337]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.15-23.33.01
+[2017.11.16-04.33.01:440][337]LogWorld: Bringing up level for play took: 0.005900
+[2017.11.16-04.33.01:445][337]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.576
+[2017.11.16-04.33.07:498][902]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.16-04.33.11:287][226]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.16-04.33.12:117][290]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-04.33.12:138][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-04.33.12:138][290]PIE: New page: PIE session: Level_01 (Nov 15, 2017, 6:33:12 PM)
+[2017.11.16-04.33.12:138][290]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.16-04.33.12:145][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007072s)
+[2017.11.16-04.33.12:146][290]LogAIModule: Creating AISystem for world Level_01
+[2017.11.16-04.33.12:146][290]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2017.11.16-04.33.12:146][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008281s)
+[2017.11.16-04.33.12:165][290]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-04.33.12:171][290]LogInit: FAudioDevice initialized.
+[2017.11.16-04.33.12:203][290]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.16-04.33.12:208][290]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.15-23.33.12
+[2017.11.16-04.33.12:210][290]LogWorld: Bringing up level for play took: 0.006006
+[2017.11.16-04.33.12:213][290]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.656
+[2017.11.16-04.33.27:787][975]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-04.33.27:811][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-04.33.27:812][975]PIE: New page: PIE session: Level_01 (Nov 15, 2017, 6:33:27 PM)
+[2017.11.16-04.33.27:812][975]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.16-04.33.27:819][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006711s)
+[2017.11.16-04.33.27:819][975]LogAIModule: Creating AISystem for world Level_01
+[2017.11.16-04.33.27:819][975]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2017.11.16-04.33.27:820][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007853s)
+[2017.11.16-04.33.27:839][975]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-04.33.27:845][975]LogInit: FAudioDevice initialized.
+[2017.11.16-04.33.27:882][975]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.16-04.33.27:887][975]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.15-23.33.27
+[2017.11.16-04.33.27:888][975]LogWorld: Bringing up level for play took: 0.005931
+[2017.11.16-04.33.27:892][975]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 1.022
+[2017.11.16-04.33.30:916][279]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-04.33.30:941][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-04.33.30:941][279]PIE: New page: PIE session: Level_01 (Nov 15, 2017, 6:33:30 PM)
+[2017.11.16-04.33.30:942][279]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.16-04.33.30:951][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009051s)
+[2017.11.16-04.33.30:951][279]LogAIModule: Creating AISystem for world Level_01
+[2017.11.16-04.33.30:952][279]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2017.11.16-04.33.30:952][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.010431s)
+[2017.11.16-04.33.30:973][279]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-04.33.30:981][279]LogInit: FAudioDevice initialized.
+[2017.11.16-04.33.31:013][279]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.16-04.33.31:018][279]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.15-23.33.31
+[2017.11.16-04.33.31:019][279]LogWorld: Bringing up level for play took: 0.004957
+[2017.11.16-04.33.31:021][279]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.151
+[2017.11.16-04.34.10:479][550]LogEditorViewport: Clicking Background
+[2017.11.16-04.34.11:299][608]LogSavePackage: Save=140.44ms
+[2017.11.16-04.34.11:299][608]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_01F41D9330434B98FC61EC75A76897AF7B.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_01.umap'
+[2017.11.16-04.34.11:300][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_01.umap
+[2017.11.16-04.35.47:085][237]LogEditorViewport: Clicking Background
+[2017.11.16-04.36.30:442][452]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.16-04.36.47:804][504]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.16-04.36.48:306][505]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.16-04.44.11:645][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/8BitSideScroller/Maps/Level_01' took 0.113
+[2017.11.16-04.44.11:661][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate] ([1] browsable assets)...
+[2017.11.16-04.44.11:683][680]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.TileMapTemplate]
+[2017.11.16-04.44.11:683][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate]
+[2017.11.16-04.44.11:792][680]LogSavePackage: Save=24.83ms
+[2017.11.16-04.44.11:792][680]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/TileMapTemplate_Auto439335D7A4BB38D04A24242B98F1A7A89.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_Auto4.uasset'
+[2017.11.16-04.44.11:794][680]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_Auto4.uasset
+[2017.11.16-04.44.11:794][680]LogFileHelpers: Auto-saving content packages took 0.145
+[2017.11.16-05.10.52:655][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.11.16-05.34.47:380][523]AssetReimport: New page: Outstanding source content changes 7:34:47 PM
+[2017.11.16-05.34.47:393][524]LogEditorFactories: Performing atomic reimport of [C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png]
+[2017.11.16-05.34.47:394][524]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png)
+[2017.11.16-05.34.47:764][524]LogEditorFactories: -- imported successfully
+[2017.11.16-05.34.50:805][756]AssetReimport: Reimported asset TileMapTemplate from C:/Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.png.
+[2017.11.16-05.37.07:611][449]Cmd: TRANSACTION UNDO
+[2017.11.16-05.37.07:611][449]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-05.37.09:744][591]Cmd: TRANSACTION UNDO
+[2017.11.16-05.37.09:744][591]LogEditorTransaction: Undo Tile Painting
+[2017.11.16-05.38.17:756][384]LogSavePackage: Save=358.72ms
+[2017.11.16-05.38.17:756][384]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Mechanical_TileMap527EF35B4491BBD431EE39A57FE5444C.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap.uasset'
+[2017.11.16-05.38.17:757][384]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap.uasset
+[2017.11.16-05.38.21:330][662]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-05.38.21:367][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-05.38.21:369][662]PIE: New page: PIE session: Level_01 (Nov 15, 2017, 7:38:21 PM)
+[2017.11.16-05.38.21:369][662]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.16-05.38.21:390][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021378s)
+[2017.11.16-05.38.21:392][662]LogAIModule: Creating AISystem for world Level_01
+[2017.11.16-05.38.21:394][662]LogPlayLevel: PIE: World Init took: (0.003708s)
+[2017.11.16-05.38.21:394][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.025419s)
+[2017.11.16-05.38.21:422][662]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-05.38.21:433][662]LogInit: FAudioDevice initialized.
+[2017.11.16-05.38.21:470][662]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.16-05.38.21:488][662]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-00.38.21
+[2017.11.16-05.38.21:492][662]LogWorld: Bringing up level for play took: 0.008416
+[2017.11.16-05.38.21:513][662]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.552
+[2017.11.16-05.38.30:633][687]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-05.38.30:653][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-05.38.30:653][687]PIE: New page: PIE session: Level_01 (Nov 15, 2017, 7:38:30 PM)
+[2017.11.16-05.38.30:653][687]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.16-05.38.30:661][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007737s)
+[2017.11.16-05.38.30:662][687]LogAIModule: Creating AISystem for world Level_01
+[2017.11.16-05.38.30:662][687]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2017.11.16-05.38.30:662][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009145s)
+[2017.11.16-05.38.30:679][687]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-05.38.30:683][687]LogInit: FAudioDevice initialized.
+[2017.11.16-05.38.30:720][687]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.16-05.38.30:725][687]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-00.38.30
+[2017.11.16-05.38.30:726][687]LogWorld: Bringing up level for play took: 0.005759
+[2017.11.16-05.38.30:729][687]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.233
+[2017.11.16-05.38.33:855][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-05.38.33:875][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-05.38.33:875][ 28]PIE: New page: PIE session: Level_01 (Nov 15, 2017, 7:38:33 PM)
+[2017.11.16-05.38.33:875][ 28]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.16-05.38.33:883][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007535s)
+[2017.11.16-05.38.33:883][ 28]LogAIModule: Creating AISystem for world Level_01
+[2017.11.16-05.38.33:884][ 28]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2017.11.16-05.38.33:884][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008597s)
+[2017.11.16-05.38.33:902][ 28]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-05.38.33:907][ 28]LogInit: FAudioDevice initialized.
+[2017.11.16-05.38.33:942][ 28]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.16-05.38.33:948][ 28]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-00.38.33
+[2017.11.16-05.38.33:949][ 28]LogWorld: Bringing up level for play took: 0.006387
+[2017.11.16-05.38.33:952][ 28]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.991
+[2017.11.16-05.38.53:539][288]LogEditorViewport: Clicking Background
+[2017.11.16-05.38.53:662][300]LogEditorViewport: Clicking Background
+[2017.11.16-05.39.18:307][928]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/8BitSideScroller/Maps/Level_01' took 0.010
+[2017.11.16-05.39.18:309][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate] ([1] browsable assets)...
+[2017.11.16-05.39.18:319][928]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate.TileMapTemplate]
+[2017.11.16-05.39.18:319][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate]
+[2017.11.16-05.39.18:422][928]LogSavePackage: Save=8.20ms
+[2017.11.16-05.39.18:422][928]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/TileMapTemplate_Auto521BD349C4B17814C229BD88423AD0126.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_Auto5.uasset'
+[2017.11.16-05.39.18:423][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/TileMapTemplate_Auto5.uasset
+[2017.11.16-05.39.18:423][928]LogFileHelpers: Auto-saving content packages took 0.115
+[2017.11.16-19.35.03:188][359]LogHttp: Warning: 000000003A7B2500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.35.03:188][359]LogHttp: Warning: 000000003A7B2500: libcurl info message cache 0 (Connection 867 seems to be dead!)
+[2017.11.16-19.35.03:188][359]LogHttp: Warning: 000000003A7B2500: libcurl info message cache 1 (Closing connection 867)
+[2017.11.16-19.35.03:189][359]LogHttp: Warning: 000000003A7B2500: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.11.16-19.35.03:189][359]LogHttp: Warning: 000000003A7B2500: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.35.03:189][359]LogHttp: Warning: 000000003A7B2500: libcurl info message cache 4 (Closing connection 868)
+[2017.11.16-19.37.03:527][720]LogHttp: Warning: 000000003A7B2500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.37.03:527][720]LogHttp: Warning: 000000003A7B2500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.37.03:527][720]LogHttp: Warning: 000000003A7B2500: libcurl info message cache 1 (Closing connection 869)
+[2017.11.16-19.39.03:865][ 81]LogHttp: Warning: 000000003A7B2500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.39.03:865][ 81]LogHttp: Warning: 000000003A7B2500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.39.03:865][ 81]LogHttp: Warning: 000000003A7B2500: libcurl info message cache 1 (Closing connection 870)
+[2017.11.16-19.41.04:202][442]LogHttp: Warning: 000000003A7B3D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.41.04:202][442]LogHttp: Warning: 000000003A7B3D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.41.04:202][442]LogHttp: Warning: 000000003A7B3D00: libcurl info message cache 1 (Closing connection 871)
+[2017.11.16-19.43.04:540][803]LogHttp: Warning: 000000003A7B2E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.43.04:540][803]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.43.04:540][803]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 1 (Closing connection 872)
+[2017.11.16-19.45.04:879][164]LogHttp: Warning: 000000003A7B2E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.45.04:879][164]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.45.04:879][164]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 1 (Closing connection 873)
+[2017.11.16-19.47.05:217][525]LogHttp: Warning: 000000003A7B2E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.47.05:217][525]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.47.05:217][525]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 1 (Closing connection 874)
+[2017.11.16-19.49.05:555][886]LogHttp: Warning: 000000003A7B2E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.49.05:556][886]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.49.05:556][886]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 1 (Closing connection 875)
+[2017.11.16-19.51.05:894][247]LogHttp: Warning: 000000003A7B1D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.51.05:894][247]LogHttp: Warning: 000000003A7B1D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.51.05:894][247]LogHttp: Warning: 000000003A7B1D80: libcurl info message cache 1 (Closing connection 876)
+[2017.11.16-19.53.06:231][608]LogHttp: Warning: 000000003A7B1A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.53.06:231][608]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.53.06:231][608]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 1 (Closing connection 877)
+[2017.11.16-19.55.06:567][969]LogHttp: Warning: 000000003A7B1A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.55.06:567][969]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.55.06:568][969]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 1 (Closing connection 878)
+[2017.11.16-19.57.06:906][330]LogHttp: Warning: 000000003A7B1A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.57.06:906][330]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.57.06:906][330]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 1 (Closing connection 879)
+[2017.11.16-19.59.07:244][691]LogHttp: Warning: 000000003A7B1A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-19.59.07:244][691]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-19.59.07:244][691]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 1 (Closing connection 880)
+[2017.11.16-20.01.07:584][ 52]LogHttp: Warning: 000000003A7B1A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.01.07:584][ 52]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.01.07:584][ 52]LogHttp: Warning: 000000003A7B1A80: libcurl info message cache 1 (Closing connection 881)
+[2017.11.16-20.03.07:921][413]LogHttp: Warning: 000000003A7B1C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.03.07:921][413]LogHttp: Warning: 000000003A7B1C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.03.07:921][413]LogHttp: Warning: 000000003A7B1C00: libcurl info message cache 1 (Closing connection 882)
+[2017.11.16-20.05.08:258][774]LogHttp: Warning: 000000003A7B1C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.05.08:258][774]LogHttp: Warning: 000000003A7B1C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.05.08:258][774]LogHttp: Warning: 000000003A7B1C00: libcurl info message cache 1 (Closing connection 883)
+[2017.11.16-20.07.08:599][135]LogHttp: Warning: 000000003A7B1C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.07.08:599][135]LogHttp: Warning: 000000003A7B1C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.07.08:599][135]LogHttp: Warning: 000000003A7B1C00: libcurl info message cache 1 (Closing connection 884)
+[2017.11.16-20.09.08:938][496]LogHttp: Warning: 000000003A7B1C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.09.08:938][496]LogHttp: Warning: 000000003A7B1C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.09.08:938][496]LogHttp: Warning: 000000003A7B1C00: libcurl info message cache 1 (Closing connection 885)
+[2017.11.16-20.11.09:275][857]LogHttp: Warning: 000000003A7B0100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.11.09:275][857]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.11.09:276][857]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 1 (Closing connection 886)
+[2017.11.16-20.13.09:619][218]LogHttp: Warning: 000000003A7B3A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.13.09:619][218]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.13.09:619][218]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 1 (Closing connection 887)
+[2017.11.16-20.15.09:956][579]LogHttp: Warning: 000000003A7B3A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.15.09:956][579]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.15.09:956][579]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 1 (Closing connection 888)
+[2017.11.16-20.17.10:296][940]LogHttp: Warning: 000000003A7B3A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.17.10:296][940]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.17.10:296][940]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 1 (Closing connection 889)
+[2017.11.16-20.19.10:631][301]LogHttp: Warning: 000000003A7B3A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.19.10:631][301]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.19.10:631][301]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 1 (Closing connection 890)
+[2017.11.16-20.21.10:970][662]LogHttp: Warning: 000000003A7B3A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.21.10:970][662]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.21.10:970][662]LogHttp: Warning: 000000003A7B3A00: libcurl info message cache 1 (Closing connection 891)
+[2017.11.16-20.23.11:305][ 23]LogHttp: Warning: 000000003A7B0100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.23.11:306][ 23]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.23.11:306][ 23]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 1 (Closing connection 892)
+[2017.11.16-20.25.11:644][384]LogHttp: Warning: 000000003A7B0100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.25.11:644][384]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.25.11:644][384]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 1 (Closing connection 893)
+[2017.11.16-20.27.11:980][745]LogHttp: Warning: 000000003A7B0100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.27.11:980][745]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.27.11:980][745]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 1 (Closing connection 894)
+[2017.11.16-20.29.12:316][106]LogHttp: Warning: 000000003A7B0100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.29.12:316][106]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.29.12:316][106]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 1 (Closing connection 895)
+[2017.11.16-20.31.12:652][467]LogHttp: Warning: 000000003A7B0100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.31.12:652][467]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.31.12:652][467]LogHttp: Warning: 000000003A7B0100: libcurl info message cache 1 (Closing connection 896)
+[2017.11.16-20.33.12:991][828]LogHttp: Warning: 000000003A7B2E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.33.12:991][828]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.33.12:991][828]LogHttp: Warning: 000000003A7B2E00: libcurl info message cache 1 (Closing connection 897)
+[2017.11.17-02.37.47:186][243]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.37.47:210][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.37.47:210][243]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:37:47 PM)
+[2017.11.17-02.37.47:210][243]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.37.47:219][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008134s)
+[2017.11.17-02.37.47:220][243]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.37.47:220][243]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2017.11.17-02.37.47:220][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009931s)
+[2017.11.17-02.37.47:240][243]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.37.47:249][243]LogInit: FAudioDevice initialized.
+[2017.11.17-02.37.47:281][243]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.37.47:288][243]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.37.47
+[2017.11.17-02.37.47:289][243]LogWorld: Bringing up level for play took: 0.007376
+[2017.11.17-02.37.47:292][243]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.563
+[2017.11.17-02.37.52:630][693]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.37.52:652][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.37.52:652][693]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:37:52 PM)
+[2017.11.17-02.37.52:652][693]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.37.52:659][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006938s)
+[2017.11.17-02.37.52:660][693]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.37.52:660][693]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2017.11.17-02.37.52:661][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008201s)
+[2017.11.17-02.37.52:683][693]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.37.52:691][693]LogInit: FAudioDevice initialized.
+[2017.11.17-02.37.52:723][693]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.37.52:729][693]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.37.52
+[2017.11.17-02.37.52:731][693]LogWorld: Bringing up level for play took: 0.007732
+[2017.11.17-02.37.52:734][693]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.004
+[2017.11.17-02.38.07:030][892]LogEditorViewport: Clicking Background
+[2017.11.17-02.38.07:546][935]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.17-02.38.11:004][152]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.17-02.38.14:434][371]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.17-02.38.17:360][565]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.17-02.38.18:230][618]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.38.18:258][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.38.18:258][618]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:38:18 PM)
+[2017.11.17-02.38.18:258][618]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.38.18:265][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006469s)
+[2017.11.17-02.38.18:266][618]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.38.18:266][618]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2017.11.17-02.38.18:266][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007742s)
+[2017.11.17-02.38.18:286][618]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.38.18:294][618]LogInit: FAudioDevice initialized.
+[2017.11.17-02.38.18:327][618]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.38.18:332][618]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.38.18
+[2017.11.17-02.38.18:333][618]LogWorld: Bringing up level for play took: 0.005540
+[2017.11.17-02.38.18:336][618]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.394
+[2017.11.17-02.38.28:168][426]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.38.28:190][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.38.28:190][426]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:38:28 PM)
+[2017.11.17-02.38.28:190][426]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.38.28:196][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006154s)
+[2017.11.17-02.38.28:197][426]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.38.28:197][426]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2017.11.17-02.38.28:198][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007251s)
+[2017.11.17-02.38.28:216][426]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.38.28:226][426]LogInit: FAudioDevice initialized.
+[2017.11.17-02.38.28:262][426]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.38.28:270][426]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.38.28
+[2017.11.17-02.38.28:272][426]LogWorld: Bringing up level for play took: 0.009323
+[2017.11.17-02.38.28:280][426]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.451
+[2017.11.17-02.39.36:587][857]LogSavePackage: Save=151.63ms
+[2017.11.17-02.39.36:587][857]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_01_Auto6B624269A4A969CC6E9AECE9B51D6F0F3.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Maps/Level_01_Auto6.umap'
+[2017.11.17-02.39.36:588][857]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Maps/Level_01_Auto6.umap
+[2017.11.17-02.39.36:591][857]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/8BitSideScroller/Maps/Level_01' took 0.272
+[2017.11.17-02.39.36:591][857]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.272
+[2017.11.17-02.43.08:088][511]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.43.08:109][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.43.08:109][511]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:43:08 PM)
+[2017.11.17-02.43.08:109][511]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.43.08:118][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008327s)
+[2017.11.17-02.43.08:119][511]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.43.08:119][511]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2017.11.17-02.43.08:119][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.010119s)
+[2017.11.17-02.43.08:143][511]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.43.08:154][511]LogInit: FAudioDevice initialized.
+[2017.11.17-02.43.08:189][511]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.43.08:196][511]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.43.08
+[2017.11.17-02.43.08:197][511]LogWorld: Bringing up level for play took: 0.005560
+[2017.11.17-02.43.08:199][511]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.538
+[2017.11.17-02.43.58:226][937]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.43.58:256][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.43.58:256][937]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:43:58 PM)
+[2017.11.17-02.43.58:257][937]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.43.58:264][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007475s)
+[2017.11.17-02.43.58:265][937]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.43.58:265][937]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2017.11.17-02.43.58:265][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008620s)
+[2017.11.17-02.43.58:284][937]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.43.58:294][937]LogInit: FAudioDevice initialized.
+[2017.11.17-02.43.58:326][937]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.43.58:332][937]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.43.58
+[2017.11.17-02.43.58:333][937]LogWorld: Bringing up level for play took: 0.006291
+[2017.11.17-02.43.58:337][937]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.402
+[2017.11.17-02.45.28:479][855]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mechanical_TileMap)
+[2017.11.17-02.45.30:049][961]LogEditorViewport: Clicking Background
+[2017.11.17-02.45.31:963][125]LogEditorViewport: Clicking Background
+[2017.11.17-02.45.37:228][560]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mechanical_TileMap)
+[2017.11.17-02.45.42:218][901]LogEditorViewport: Clicking Background
+[2017.11.17-02.45.47:656][332]LogEditorViewport: Clicking Background
+[2017.11.17-02.46.05:321][798]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mechanical_TileMap)
+[2017.11.17-02.46.22:190][976]LogEditorViewport: Clicking Background
+[2017.11.17-02.49.20:774][ 17]Cmd: DELETE
+[2017.11.17-02.49.20:774][ 17]Cmd: ACTOR DELETE
+[2017.11.17-02.49.20:783][ 17]LogEditorActor: Deleted Actor: BP_MovingPlatform_C
+[2017.11.17-02.49.20:794][ 17]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2017.11.17-02.49.23:650][234]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mechanical_TileMap)
+[2017.11.17-02.49.26:699][414]LogEditorViewport: Clicking Background
+[2017.11.17-02.49.41:874][570]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mechanical_TileMap)
+[2017.11.17-02.49.50:138][ 80]LogEditorViewport: Clicking Background
+[2017.11.17-02.49.58:805][748]LogEditorViewport: Clicking Background
+[2017.11.17-02.50.27:212][  3]LogEditorViewport: Clicking Background
+[2017.11.17-02.50.42:986][212]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.17-02.50.46:301][431]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.17-02.50.47:047][476]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.50.47:071][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.50.47:072][476]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:50:47 PM)
+[2017.11.17-02.50.47:072][476]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.50.47:081][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009293s)
+[2017.11.17-02.50.47:082][476]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.50.47:082][476]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2017.11.17-02.50.47:082][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.010432s)
+[2017.11.17-02.50.47:101][476]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.50.47:110][476]LogInit: FAudioDevice initialized.
+[2017.11.17-02.50.47:141][476]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.50.47:147][476]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.50.47
+[2017.11.17-02.50.47:149][476]LogWorld: Bringing up level for play took: 0.006114
+[2017.11.17-02.50.47:152][476]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.404
+[2017.11.17-02.50.53:297][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.50.53:318][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.50.53:318][ 10]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:50:53 PM)
+[2017.11.17-02.50.53:318][ 10]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.50.53:325][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006788s)
+[2017.11.17-02.50.53:326][ 10]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.50.53:326][ 10]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2017.11.17-02.50.53:326][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008110s)
+[2017.11.17-02.50.53:346][ 10]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.50.53:356][ 10]LogInit: FAudioDevice initialized.
+[2017.11.17-02.50.53:390][ 10]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.50.53:397][ 10]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.50.53
+[2017.11.17-02.50.53:399][ 10]LogWorld: Bringing up level for play took: 0.007850
+[2017.11.17-02.50.53:401][ 10]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.654
+[2017.11.17-02.50.54:982][157]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.50.55:003][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.50.55:004][157]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:50:55 PM)
+[2017.11.17-02.50.55:004][157]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.50.55:012][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007958s)
+[2017.11.17-02.50.55:012][157]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.50.55:013][157]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2017.11.17-02.50.55:013][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.009244s)
+[2017.11.17-02.50.55:033][157]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.50.55:042][157]LogInit: FAudioDevice initialized.
+[2017.11.17-02.50.55:072][157]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.50.55:077][157]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.50.55
+[2017.11.17-02.50.55:078][157]LogWorld: Bringing up level for play took: 0.005435
+[2017.11.17-02.50.55:081][157]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 0.334
+[2017.11.17-02.50.57:675][390]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.17-02.50.59:625][554]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.17-02.51.00:582][628]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.51.00:603][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.51.00:603][628]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:51:00 PM)
+[2017.11.17-02.51.00:604][628]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.51.00:610][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006622s)
+[2017.11.17-02.51.00:611][628]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.51.00:611][628]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2017.11.17-02.51.00:611][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.007736s)
+[2017.11.17-02.51.00:632][628]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.51.00:641][628]LogInit: FAudioDevice initialized.
+[2017.11.17-02.51.00:669][628]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.51.00:674][628]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.51.00
+[2017.11.17-02.51.00:675][628]LogWorld: Bringing up level for play took: 0.005161
+[2017.11.17-02.51.00:678][628]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.071
+[2017.11.17-02.51.07:304][259]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.17-02.51.09:062][401]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.17-02.51.09:810][453]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.17-02.51.09:831][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.17-02.51.09:832][453]PIE: New page: PIE session: Level_01 (Nov 16, 2017, 4:51:09 PM)
+[2017.11.17-02.51.09:832][453]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01
+[2017.11.17-02.51.09:839][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007369s)
+[2017.11.17-02.51.09:840][453]LogAIModule: Creating AISystem for world Level_01
+[2017.11.17-02.51.09:840][453]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2017.11.17-02.51.09:840][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_01.Level_01 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 (0.008511s)
+[2017.11.17-02.51.09:860][453]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.17-02.51.09:868][453]LogInit: FAudioDevice initialized.
+[2017.11.17-02.51.09:901][453]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.11.17-02.51.09:907][453]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2017.11.16-21.51.09
+[2017.11.17-02.51.09:908][453]LogWorld: Bringing up level for play took: 0.006279
+[2017.11.17-02.51.09:911][453]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_01 -0.837
+[2017.11.17-02.51.18:811][206]LogEditorViewport: Clicking Background
+[2017.11.17-02.52.01:625][738]LogSavePackage: Save=130.63ms
+[2017.11.17-02.52.01:625][738]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_01_Auto7BB620F544D0045C38259F7AB86D13D7C.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Maps/Level_01_Auto7.umap'
+[2017.11.17-02.52.01:627][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Maps/Level_01_Auto7.umap
+[2017.11.17-02.52.01:628][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/8BitSideScroller/Maps/Level_01' took 0.194
+[2017.11.17-02.52.01:628][738]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.194
+[2017.11.17-02.52.01:631][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap] ([1] browsable assets)...
+[2017.11.17-02.52.01:631][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap]
+[2017.11.17-02.52.01:832][738]LogSavePackage: Save=142.77ms
+[2017.11.17-02.52.01:832][738]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Mechanical_TileMap_Auto722B1C00F4CE5E4E0493D058EE36C75B7.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap_Auto7.uasset'
+[2017.11.17-02.52.01:833][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Autosaves/Game/8BitSideScroller/Materials/Mechanical_Tile_Map/Mechanical_TileMap_Auto7.uasset
+[2017.11.17-02.52.01:833][738]LogFileHelpers: Auto-saving content packages took 0.203
+[2017.11.17-03.35.03:820][500]LogHttp: Warning: 000000006DF9CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.17-03.35.03:820][500]LogHttp: Warning: 000000006DF9CD00: libcurl info message cache 0 (Connection 955 seems to be dead!)
+[2017.11.17-03.35.03:820][500]LogHttp: Warning: 000000006DF9CD00: libcurl info message cache 1 (Closing connection 955)
+[2017.11.17-03.35.03:820][500]LogHttp: Warning: 000000006DF9CD00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.11.17-03.35.03:820][500]LogHttp: Warning: 000000006DF9CD00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.17-03.35.03:820][500]LogHttp: Warning: 000000006DF9CD00: libcurl info message cache 4 (Closing connection 956)
+[2017.11.17-03.56.25:226][344]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{0868265e-fba7-4686-a9b4-f36d6d0fe457} was removed. Shutting down audio device.
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x55088bc8 [can pipeline])
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 1 (Re-using existing connection! (#966) with host datarouter.ol.epicgames.com)
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.0.158.153) port 443 (#966))
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 3 (upload completely sent off: 716 out of 716 bytes)
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 6 (Closing connection 966)
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94F91530-4D41-A7BA-D009-A6B22C23F741%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=667a7c7a44103b2c48deddb876f690cd%7C1bd77e796fdd4d09bb053288d2884069%7C38e95258-9f77-4c0f-b70c-b0cebe1e407a&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.17-04.35.22:849][355]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 9 (Closing connection 967)
+[2017.11.17-04.37.35:186][752]LogHttp: Warning: 000000006DF9D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.17-04.37.35:186][752]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.17-04.37.35:186][752]LogHttp: Warning: 000000006DF9D600: libcurl info message cache 1 (Closing connection 968)

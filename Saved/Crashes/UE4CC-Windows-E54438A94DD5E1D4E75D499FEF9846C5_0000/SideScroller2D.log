@@ -1,0 +1,527 @@
+﻿Log file open, 09/20/17 23:11:08
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: SideScroller2D
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1327845482) SRandInit(-1327845482).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.696262
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.21-03.11.09:559][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.21-03.11.09:559][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.21-03.11.09:571][  0]LogInit: Computer: BRYAN-PC
+[2017.09.21-03.11.09:571][  0]LogInit: User: Bryan
+[2017.09.21-03.11.09:571][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.21-03.11.09:571][  0]LogInit: High frequency timer resolution =3.410283 MHz
+[2017.09.21-03.11.09:572][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.09.21-03.11.09:572][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.21-03.11.09:572][  0]LogMemory: Process Physical Memory: 280.15 MB used, 280.15 MB peak
+[2017.09.21-03.11.09:572][  0]LogMemory: Process Virtual Memory: 277.29 MB used, 277.29 MB peak
+[2017.09.21-03.11.09:572][  0]LogMemory: Physical Memory: 7383.73 MB used,  8981.80 MB free, 16365.53 MB total
+[2017.09.21-03.11.09:572][  0]LogMemory: Virtual Memory: 656.41 MB used,  8981.80 MB free, 8388608.00 MB total
+[2017.09.21-03.11.09:814][  0]LogInit: Using OS detected language (en-US).
+[2017.09.21-03.11.09:814][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.21-03.11.09:820][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.21-03.11.10:710][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.21-03.11.11:205][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2017.09.21-03.11.11:205][  0]LogD3D11RHI:       1990/0/7926 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.09.21-03.11.11:205][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.21-03.11.11:210][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.21-03.11.11:210][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.21-03.11.11:210][  0]LogWindows: EnumDisplayDevices:
+[2017.09.21-03.11.11:210][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2017.09.21-03.11.11:210][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.09.21-03.11.11:210][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.09.21-03.11.11:211][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.09.21-03.11.11:211][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.09.21-03.11.11:211][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.09.21-03.11.11:211][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.09.21-03.11.11:211][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.09.21-03.11.11:211][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2017.09.21-03.11.11:211][  0]LogD3D11RHI:   Driver Version: 381.89 (internal:22.21.13.8189, unified:381.89)
+[2017.09.21-03.11.11:211][  0]LogD3D11RHI:      Driver Date: 4-19-2017
+[2017.09.21-03.11.11:211][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.21-03.11.11:664][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.21-03.11.11:709][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.09.21-03.11.11:809][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Intermediate/Shaders/WorkingDirectory/12228/).
+[2017.09.21-03.11.11:809][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bryan/AppData/Local/Temp/UnrealShaderWorkingDir/8666F7C441F6993132CCFB8877C1C6E0/'.
+[2017.09.21-03.11.11:809][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.21-03.11.12:922][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.21-03.11.12:975][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.21-03.11.13:026][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.21-03.11.13:079][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.21-03.11.13:132][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.21-03.11.13:184][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.21-03.11.13:237][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.21-03.11.13:290][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.21-03.11.13:335][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.21-03.11.13:388][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.21-03.11.13:440][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.21-03.11.13:492][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.21-03.11.13:543][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.21-03.11.13:595][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.21-03.11.13:647][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.21-03.11.13:752][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.21-03.11.13:752][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.21-03.11.13:792][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.21-03.11.13:888][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.21-03.11.13:923][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.21-03.11.13:978][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.21-03.11.14:035][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.21-03.11.14:092][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.21-03.11.14:146][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.21-03.11.14:146][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.21-03.11.14:704][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.21-03.11.14:989][  0]LogDerivedDataCache: Loaded boot cache 0.28s 93MB C:/Users/Bryan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.21-03.11.14:989][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bryan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.21-03.11.14:989][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.21-03.11.14:989][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.21-03.11.14:989][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.21-03.11.14:989][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.21-03.11.15:013][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.21-03.11.15:025][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.21-03.11.15:040][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.21-03.11.15:044][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.21-03.11.15:046][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.21-03.11.15:047][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.21-03.11.15:727][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2017.09.21-03.11.16:034][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.21-03.11.16:046][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.21-03.11.16:526][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.21-03.11.16:579][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.21-03.11.16:579][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.21-03.11.16:579][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.21-03.11.16:579][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.21-03.11.16:579][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.21-03.11.17:127][  0]LogNetVersion: SideScroller2D , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3390668775)
+[2017.09.21-03.11.17:418][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.055111 seconds
+[2017.09.21-03.11.17:427][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.21-03.11.17:427][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.09.21-03.11.17:427][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.21-03.11.17:489][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.21-03.11.20:844][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.21-03.11.20:881][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.21-03.11.21:563][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.21-03.11.22:006][  0]SourceControl: Source control is disabled
+[2017.09.21-03.11.22:006][  0]SourceControl: Source control is disabled
+[2017.09.21-03.11.22:059][  0]SourceControl: Source control is disabled
+[2017.09.21-03.11.22:107][  0]SourceControl: Source control is disabled
+[2017.09.21-03.11.22:728][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.21-03.11.22:996][  0]LogOcInput: OculusInput pre-init called
+[2017.09.21-03.11.23:297][  0]LogEngine: Initializing Engine...
+[2017.09.21-03.11.23:299][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.21-03.11.23:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.21-03.11.23:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.21-03.11.23:750][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.21-03.11.23:770][  0]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.21-03.11.23:820][  0]LogInit: FAudioDevice initialized.
+[2017.09.21-03.11.23:905][  0]LogDerivedDataCache: Saved boot cache 0.08s 93MB C:/Users/Bryan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.21-03.11.23:928][  0]LogInit: Texture streaming: Enabled
+[2017.09.21-03.11.24:051][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.21-03.11.24:311][  0]LogInit: Transaction tracking system initialized
+[2017.09.21-03.11.24:664][  0]BlueprintLog: New page: Editor Load
+[2017.09.21-03.11.25:626][  0]LocalizationService: Localization service is disabled
+[2017.09.21-03.11.26:361][  0]LogConsoleResponse: Display: 
+[2017.09.21-03.11.26:615][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.21-03.11.26:615][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.21-03.11.26:616][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.21-03.11.27:195][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/' took 0.02s
+[2017.09.21-03.11.27:701][  0]SourceControl: Source control is disabled
+[2017.09.21-03.11.27:703][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/Demo/Maps/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.21-03.11.27:703][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/Demo/Maps/Level_00.umap'
+[2017.09.21-03.11.27:704][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.21-03.11.27:747][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.529ms to complete.
+[2017.09.21-03.11.27:748][  0]LogFileHelpers: Loading map 'Level_00' took 0.045
+[2017.09.21-03.11.27:951][  0]LogCollectionManager: Loaded 0 collections in 0.001508 seconds
+[2017.09.21-03.11.28:032][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Saved/Collections/' took 0.01s
+[2017.09.21-03.11.28:032][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/Developers/Bryan/Collections/' took 0.01s
+[2017.09.21-03.11.28:032][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/Collections/' took 0.00s
+[2017.09.21-03.11.28:032][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.09.21-03.11.28:043][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2386 classes and 500 folders.
+[2017.09.21-03.11.28:107][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.09.21-03.11.28:196][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.21-03.11.28:244][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.09.21-03.11.28:381][  0]LogSlate: Took 0.000967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.21-03.11.28:384][  0]LogSlate: Took 0.001005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.21-03.11.28:393][  0]LogSlate: Took 0.001076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.21-03.11.28:518][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.09.21-03.11.28:722][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.09.21-03.11.28:722][  0]LogLoad: (Engine Initialization) Total time: 21.54 seconds
+[2017.09.21-03.11.28:722][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.21-03.11.28:722][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.09.21-03.11.28:723][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.09.21-03.11.28:757][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.21-03.11.28:828][  0]LogSlate: Took 0.001022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.21-03.11.28:879][  2]LogAssetRegistry: Asset discovery search completed in 13.1715 seconds
+[2017.09.21-03.11.28:882][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.21-03.11.28:882][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2017.09.21-03.11.29:768][100]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.21-03.11.34:915][613]LogLinker: Can't find file '/Game/Demo/Sprites/Weapons/A_Shot'
+[2017.09.21-03.11.34:915][613]LogLinker: Can't find file '/Game/Demo/Sprites/Weapons/A_Shot'
+[2017.09.21-03.11.35:649][613]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.21-03.11.36:142][613]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 113 classes and 0 folders.
+[2017.09.21-03.11.38:565][613]LogBlueprintUserMessages: [BP_Ladder_C_0] AllowDownFail
+[2017.09.21-03.11.38:578][613]LogSlate: Took 0.001228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.21-03.11.38:679][614]LogSlate: Took 0.001100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.21-03.13.24:285][393]LogSavePackage: Save=38.11ms
+[2017.09.21-03.13.24:285][393]LogSavePackage: Moving '../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Saved/BP_Shot036ED536492C5213713C8FB4EDCB6450.tmp' to '../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/8BitSideScroller/Blueprint/BP_Shot.uasset'
+[2017.09.21-03.13.24:289][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/8BitSideScroller/Blueprint/BP_Shot.uasset
+[2017.09.21-03.13.24:301][393]Cmd: MAP LOAD FILE="../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/8BitSideScroller/Maps/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.21-03.13.24:349][393]LightingResults: New page: Lighting Build
+[2017.09.21-03.13.24:402][393]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0007 seconds. Added 5 classes and 0 folders.
+[2017.09.21-03.13.24:404][393]LoadErrors: New page: Loading map: Level_00.umap
+[2017.09.21-03.13.24:404][393]MapCheck: New page: Map Check
+[2017.09.21-03.13.24:404][393]LightingResults: New page: Lighting Build
+[2017.09.21-03.13.24:548][393]LogLinker: Warning: Can't find file '/Game/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03'
+[2017.09.21-03.13.24:548][393]LogLinker: Warning: Can't find file for asset '/Game/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03' while loading ../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03_Sprite_29.uasset.
+[2017.09.21-03.13.24:549][393]LoadErrors: Error: /Game/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03_Sprite_29 : Can't find file for asset. /Game/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03
+[2017.09.21-03.13.24:549][393]LogLinker: Warning: Can't find file '/Game/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03'
+[2017.09.21-03.13.24:549][393]LogLinker: Warning: Can't find file for asset '/Game/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03' while loading ../../../../../../Users/Bryan/Google Drive/Unreal Projects/SideScroller2D/Content/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03_Sprite_29.uasset.
+[2017.09.21-03.13.24:577][393]LogLinker: Warning: Can't find file '/Game/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03'
+[2017.09.21-03.13.24:578][393]LoadErrors: Failed to load /Game/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03.sidescroller2D_randomAssets_v03 Referenced by sidescroller2D_randomAssets_v03_Sprite_29
+[2017.09.21-03.13.24:578][393]LogLinker: Warning: Can't find file for asset '/Game/8BitSideScroller/Sprites/Env/sidescroller2D_randomAssets_v03' while loading NULL.
+[2017.09.21-03.13.24:650][393]LogAIModule: Creating AISystem for world Level_00
+[2017.09.21-03.13.24:789][393]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.21-03.13.24:866][393]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.21-03.13.24:928][393]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.529ms to complete.
+[2017.09.21-03.13.24:928][393]LogFileHelpers: Loading map 'Level_00' took 0.628
+[2017.09.21-03.13.50:857][849]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.21-03.13.50:960][849]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.21-03.13.51:020][849]LogPlayLevel: [PlayLevel] Compiling BP_Shot before play...
+[2017.09.21-03.13.51:042][849]LogPlayLevel: [PlayLevel]   Compiling BP_Character as a dependent...
+[2017.09.21-03.13.51:577][849]LogPlayLevel: PlayLevel: Blueprint regeneration took 616 ms (2 blueprints)
+[2017.09.21-03.13.51:578][849]PIE: New page: PIE session: Level_00 (Sep 20, 2017, 7:13:51 PM)
+[2017.09.21-03.13.51:578][849]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00
+[2017.09.21-03.13.51:591][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012877s)
+[2017.09.21-03.13.51:592][849]LogAIModule: Creating AISystem for world Level_00
+[2017.09.21-03.13.51:592][849]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2017.09.21-03.13.51:593][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_00.Level_00 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00 (0.014092s)
+[2017.09.21-03.13.51:623][849]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.21-03.13.51:628][849]LogInit: FAudioDevice initialized.
+[2017.09.21-03.13.51:672][849]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.09.21-03.13.51:681][849]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2017.09.20-23.13.51
+[2017.09.21-03.13.51:683][849]LogWorld: Bringing up level for play took: 0.009551
+[2017.09.21-03.13.51:729][849]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.21-03.13.51:735][849]LogBlueprintUserMessages: [BP_Character_C_0] SpreadGun
+[2017.09.21-03.13.51:735][849]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00 -0.16
+[2017.09.21-03.13.51:800][850]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095704 > MaxSimulationTimeStep (0.050) for 'BP_Character_C_0', movement 'Walking'
+[2017.09.21-03.14.19:867][387]BlueprintLog: New page: Compile BP_Shot
+[2017.09.21-03.14.21:779][464]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.21-03.14.21:802][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.21-03.14.21:802][464]PIE: New page: PIE session: Level_00 (Sep 20, 2017, 7:14:21 PM)
+[2017.09.21-03.14.21:802][464]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00
+[2017.09.21-03.14.21:814][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011772s)
+[2017.09.21-03.14.21:815][464]LogAIModule: Creating AISystem for world Level_00
+[2017.09.21-03.14.21:815][464]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2017.09.21-03.14.21:815][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_00.Level_00 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00 (0.012941s)
+[2017.09.21-03.14.21:843][464]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.21-03.14.21:849][464]LogInit: FAudioDevice initialized.
+[2017.09.21-03.14.21:882][464]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.09.21-03.14.21:890][464]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2017.09.20-23.14.21
+[2017.09.21-03.14.21:892][464]LogWorld: Bringing up level for play took: 0.008952
+[2017.09.21-03.14.21:893][464]LogBlueprintUserMessages: [BP_Character_C_0] SpreadGun
+[2017.09.21-03.14.21:894][464]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00 -0.002
+[2017.09.21-03.14.27:327][794]LogBlueprintUserMessages: [BP_Ladder4] AllowDownFail
+[2017.09.21-03.14.33:007][141]LogBlueprintUserMessages: [BP_Ladder2_1412] AllowDownFail
+[2017.09.21-03.14.36:234][338]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.14.36:771][370]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.14.37:037][386]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.14.37:083][389]LogBlueprintUserMessages: [BP_Ladder3_6459] AllowDownFail
+[2017.09.21-03.14.37:168][394]LogScript: Warning: Attempted to access BP_Shot_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_24 is pending kill
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:055A
+[2017.09.21-03.14.37:169][394]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_24 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_24 is pending kill
+[2017.09.21-03.14.37:169][394]LogScript: Warning: Accessed None
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:056F
+[2017.09.21-03.14.37:169][394]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:169][394]LogScript: Warning: Attempted to access BP_Shot_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_24 is pending kill
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:05BA
+[2017.09.21-03.14.37:169][394]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_24 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_24 is pending kill
+[2017.09.21-03.14.37:169][394]LogScript: Warning: Accessed None
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:05CF
+[2017.09.21-03.14.37:169][394]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:169][394]LogScript: Warning: Attempted to access BP_Shot_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_24 is pending kill
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:06D8
+[2017.09.21-03.14.37:169][394]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_24 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_24 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_24 is pending kill
+[2017.09.21-03.14.37:169][394]LogScript: Warning: Accessed None
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:06ED
+[2017.09.21-03.14.37:170][394]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:247][399]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.14.37:420][410]LogScript: Warning: Attempted to access BP_Shot_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_25 is pending kill
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:055A
+[2017.09.21-03.14.37:420][410]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_25 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_25 is pending kill
+[2017.09.21-03.14.37:420][410]LogScript: Warning: Accessed None
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:056F
+[2017.09.21-03.14.37:420][410]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:420][410]LogScript: Warning: Attempted to access BP_Shot_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_25 is pending kill
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:05BA
+[2017.09.21-03.14.37:420][410]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_25 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_25 is pending kill
+[2017.09.21-03.14.37:420][410]LogScript: Warning: Accessed None
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:05CF
+[2017.09.21-03.14.37:421][410]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:421][410]LogScript: Warning: Attempted to access BP_Shot_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_25 is pending kill
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:06D8
+[2017.09.21-03.14.37:421][410]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_25 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_25 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_25 is pending kill
+[2017.09.21-03.14.37:421][410]LogScript: Warning: Accessed None
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:06ED
+[2017.09.21-03.14.37:421][410]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:497][415]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.14.37:625][423]LogScript: Warning: Attempted to access BP_Shot_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_26 is pending kill
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:055A
+[2017.09.21-03.14.37:625][423]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_26 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_26 is pending kill
+[2017.09.21-03.14.37:625][423]LogScript: Warning: Accessed None
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:056F
+[2017.09.21-03.14.37:625][423]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:626][423]LogScript: Warning: Attempted to access BP_Shot_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_26 is pending kill
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:05BA
+[2017.09.21-03.14.37:626][423]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_26 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_26 is pending kill
+[2017.09.21-03.14.37:626][423]LogScript: Warning: Accessed None
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:05CF
+[2017.09.21-03.14.37:626][423]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:626][423]LogScript: Warning: Attempted to access BP_Shot_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_26 is pending kill
+	BP_Character_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.BP_Character_C_0
+	Function /Game/8BitSideScroller/Blueprint/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character:06D8
+[2017.09.21-03.14.37:626][423]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_26 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_26 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_26 is pending kill
+[2017.09.21-03.14.37:626][423]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:781][433]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.14.37:813][435]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_27 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_27 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_27 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_27 is pending kill
+[2017.09.21-03.14.37:813][435]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:813][435]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_27 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_27 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_27 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_27 is pending kill
+[2017.09.21-03.14.37:813][435]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.37:814][435]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_27 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_27 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_27 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_27 is pending kill
+[2017.09.21-03.14.37:814][435]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.38:019][448]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_28 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_28 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_28 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_28 is pending kill
+[2017.09.21-03.14.38:019][448]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.38:019][448]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_28 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_28 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_28 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_28 is pending kill
+[2017.09.21-03.14.38:019][448]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.38:019][448]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_28 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_28 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_28 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_28 is pending kill
+[2017.09.21-03.14.38:019][448]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.38:928][505]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_29 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_29 is pending kill
+[2017.09.21-03.14.38:928][505]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: Set Physics Linear Velocity in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.38:928][505]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_29 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_29 is pending kill
+[2017.09.21-03.14.38:928][505]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.38:928][505]PIE: Error: Blueprint Runtime Error: Attempted to access BP_Shot_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_29 is pending kill from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Attempted to access BP_Shot_C_29 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Shot_C_29 is pending kill
+[2017.09.21-03.14.38:928][505]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_BP_Character' from node: SetWorldLocation in graph: EventGraph in object: BP_Character with description: Accessed None
+[2017.09.21-03.14.39:360][531]LogBlueprintUserMessages: [BP_Ladder2_1412] AllowDownFail
+[2017.09.21-03.14.49:348][127]LogCharacterMovement: BP_Character_C_0 is stuck and failed to move! Velocity: X=37.77 Y=0.00 Z=0.00 Location: X=62.17 Y=0.00 Z=2.22 Normal: X=-0.46 Y=0.00 Z=-0.89 PenetrationDepth:0.303 Actor:BP_Shot_C_51 Component:Box BoneName:None (0 other events since notify)
+[2017.09.21-03.14.50:481][191]LogBlueprintUserMessages: [BP_Character_C_0] Laser
+[2017.09.21-03.15.07:050][107]Cmd: TRANSACTION UNDO
+[2017.09.21-03.15.07:050][107]LogEditorTransaction: Undo Create Pin Link
+[2017.09.21-03.15.08:402][161]Cmd: TRANSACTION UNDO
+[2017.09.21-03.15.08:402][161]LogEditorTransaction: Undo Create Pin Link
+[2017.09.21-03.15.11:856][332]Cmd: TRANSACTION UNDO
+[2017.09.21-03.15.11:856][332]LogEditorTransaction: Undo Create Pin Link
+[2017.09.21-03.15.18:605][669]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (Box)  and was replaced as a Custom Event!
+[2017.09.21-03.15.33:230][393]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2017.09.21-03.15.45:787][ 45]BlueprintLog: New page: Compile BP_Shot
+[2017.09.21-03.15.47:632][103]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.21-03.15.47:661][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.21-03.15.47:661][103]PIE: New page: PIE session: Level_00 (Sep 20, 2017, 7:15:47 PM)
+[2017.09.21-03.15.47:661][103]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00
+[2017.09.21-03.15.47:674][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013583s)
+[2017.09.21-03.15.47:675][103]LogAIModule: Creating AISystem for world Level_00
+[2017.09.21-03.15.47:675][103]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2017.09.21-03.15.47:675][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_00.Level_00 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00 (0.014680s)
+[2017.09.21-03.15.47:705][103]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.21-03.15.47:710][103]LogInit: FAudioDevice initialized.
+[2017.09.21-03.15.47:739][103]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.09.21-03.15.47:748][103]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2017.09.20-23.15.47
+[2017.09.21-03.15.47:749][103]LogWorld: Bringing up level for play took: 0.009387
+[2017.09.21-03.15.47:751][103]LogBlueprintUserMessages: [BP_Character_C_0] SpreadGun
+[2017.09.21-03.15.47:752][103]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_00 -0.146
+[2017.09.21-03.15.50:400][269]LogBlueprintUserMessages: [BP_Ladder4] AllowDownFail
+[2017.09.21-03.15.51:546][337]LogBlueprintUserMessages: [BP_Ladder4] AllowDownFail
+[2017.09.21-03.16.06:747][285]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.07:220][316]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.07:295][321]LogBlueprintUserMessages: [BP_Character_C_0] PeaShooter
+[2017.09.21-03.16.07:435][330]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.07:642][343]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.07:849][355]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.08:489][393]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.09:200][436]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.09:575][458]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.09:941][479]LogBlueprintUserMessages: [BP_Ladder2_1412] AllowDownFail
+[2017.09.21-03.16.10:360][504]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.10:506][513]LogBlueprintUserMessages: [BP_Ladder2_1412] AllowDownFail
+[2017.09.21-03.16.10:865][534]LogBlueprintUserMessages: [BP_Ladder5] AllowDownFail
+[2017.09.21-03.16.10:949][539]LogBlueprintUserMessages: [BP_Ladder2_1412] AllowDownFail
+[2017.09.21-03.16.11:796][588]LogBlueprintUserMessages: [BP_Ladder4] AllowDownFail
+[2017.09.21-03.16.12:286][617]LogBlueprintUserMessages: [BP_Ladder4] AllowDownFail
+[2017.09.21-03.16.56:657][666]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:163).
+[2017.09.21-03.17.14:868][652]BlueprintLog: New page: Compile BP_Collision
+[2017.09.21-03.17.36:986][814]BlueprintLog: New page: Compile BP_Collision
+[2017.09.21-03.20.20:179][753]BlueprintLog: New page: Compile BP_Collision
+[2017.09.21-03.21.47:886][325]LogBlueprint: Warning: [BP_TestEnemy] 'PaperSprite' variable not found. Base class was probably changed.
+[2017.09.21-03.21.47:886][325]LogBlueprint: Warning: [BP_TestEnemy] 'IsDead' variable not found. Base class was probably changed.
+[2017.09.21-03.21.47:887][325]LogBlueprint: Warning: [BP_TestEnemy] 'FlashSpeed' variable not found. Base class was probably changed.
+[2017.09.21-03.21.47:887][325]LogBlueprint: Warning: [BP_TestEnemy] 'EnemyHealth' variable not found. Base class was probably changed.
+[2017.09.21-03.21.47:887][325]LogBlueprint: Warning: [BP_TestEnemy] 'EnemyHealth' variable not found. Base class was probably changed.
+[2017.09.21-03.21.47:887][325]LogBlueprint: Warning: [BP_TestEnemy] 'EnemyHealth' variable not found. Base class was probably changed.
+[2017.09.21-03.21.47:887][325]LogBlueprint: Warning: [BP_TestEnemy] 'IsDead' variable not found. Base class was probably changed.
+[2017.09.21-03.21.47:887][325]LogBlueprint: Warning: [BP_TestEnemy] 'IsDead' variable not found. Base class was probably changed.
+[2017.09.21-03.21.47:888][325]LogBlueprint: Warning: [BP_TestEnemy] 'Arrow' variable not found. Base class was probably changed.
+[2017.09.21-03.21.47:889][325]LogBlueprint: Warning: [BP_TestEnemy] 'PaperSprite' variable not found. Base class was probably changed.
+[2017.09.21-03.21.55:921][665]LogEditorTransaction: Undo Move Node
+[2017.09.21-03.21.58:819][774]LogEditorTransaction: Undo Move Node
+[2017.09.21-03.21.59:593][797]LogEditorTransaction: Undo Paste clipboard contents
+[2017.09.21-03.21.59:710][797]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.113 s
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: === Handled ensure: ===
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: 
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: Ensure condition failed: SubPins.Num() == 0 [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 1414]
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: 
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: Stack: 
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CDD43606
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CDACC2D2
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CDAE4746
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CA3DD787
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CA4167B9
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CA41552B
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000C3188D7B
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000C3189237
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C644667A
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C64333DD
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C6404D8E
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C644DD70
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000C36B8E51
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000C36BDBB6
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000C91D7DD0
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000C9216850
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C6BE484E
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000C6BD020F
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000C91C4761
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000C91960BE
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000C9197CC6
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000C92180B7
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000C9209B18
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CDD1B108
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CDD03B51
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CDD1D22B
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CDCFECB2
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: USER32.dll!0x0000000076CD9BD1
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: USER32.dll!0x0000000076CD98DA
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000CDD1D936
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F0C4BE2
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F0D3970
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F0D39EA
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F0E02D9
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F0E1C47
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: kernel32.dll!0x0000000076DD5A4D
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: ntdll.dll!0x0000000076F0B831
+[2017.09.21-03.21.59:710][797]LogOutputDevice: Error: 
+[2017.09.21-03.21.59:716][797]LogStats:                SubmitErrorReport -  0.000 s

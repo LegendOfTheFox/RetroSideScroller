@@ -1,0 +1,578 @@
+﻿Log file open, 10/20/17 00:00:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SideScroller2D
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1529876473) SRandInit(-1529876473).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.633019
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.20-04.00.15:361][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.20-04.00.15:361][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.20-04.00.15:372][  0]LogInit: Computer: BRYAN-PC
+[2017.10.20-04.00.15:372][  0]LogInit: User: Bryan
+[2017.10.20-04.00.15:372][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.20-04.00.15:372][  0]LogInit: High frequency timer resolution =3.410283 MHz
+[2017.10.20-04.00.15:372][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.10.20-04.00.15:372][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.20-04.00.15:372][  0]LogMemory: Process Physical Memory: 281.13 MB used, 281.13 MB peak
+[2017.10.20-04.00.15:372][  0]LogMemory: Process Virtual Memory: 285.23 MB used, 285.23 MB peak
+[2017.10.20-04.00.15:372][  0]LogMemory: Physical Memory: 8560.95 MB used,  7804.57 MB free, 16365.53 MB total
+[2017.10.20-04.00.15:372][  0]LogMemory: Virtual Memory: 664.43 MB used,  7804.57 MB free, 8388608.00 MB total
+[2017.10.20-04.00.15:608][  0]LogInit: Using OS detected language (en-US).
+[2017.10.20-04.00.15:608][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.20-04.00.15:616][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.20-04.00.16:563][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.20-04.00.17:063][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2017.10.20-04.00.17:063][  0]LogD3D11RHI:       1990/0/7926 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.10.20-04.00.17:063][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.20-04.00.17:069][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.20-04.00.17:069][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.20-04.00.17:069][  0]LogWindows: EnumDisplayDevices:
+[2017.10.20-04.00.17:069][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2017.10.20-04.00.17:070][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.10.20-04.00.17:070][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.10.20-04.00.17:070][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.10.20-04.00.17:070][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.10.20-04.00.17:070][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.10.20-04.00.17:070][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.10.20-04.00.17:070][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.10.20-04.00.17:070][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2017.10.20-04.00.17:070][  0]LogD3D11RHI:   Driver Version: 381.89 (internal:22.21.13.8189, unified:381.89)
+[2017.10.20-04.00.17:070][  0]LogD3D11RHI:      Driver Date: 4-19-2017
+[2017.10.20-04.00.17:070][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.20-04.00.17:541][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.20-04.00.17:588][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.10.20-04.00.17:688][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/Bryan/Desktop/BmanSideScroller/Intermediate/Shaders/WorkingDirectory/10860/).
+[2017.10.20-04.00.17:688][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bryan/AppData/Local/Temp/UnrealShaderWorkingDir/CCB4E37940CB733C79F80288C1ABEE95/'.
+[2017.10.20-04.00.17:688][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.20-04.00.18:890][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.20-04.00.18:951][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.20-04.00.19:008][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.20-04.00.19:068][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.20-04.00.19:125][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.20-04.00.19:180][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.20-04.00.19:234][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.20-04.00.19:294][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.20-04.00.19:347][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.20-04.00.19:403][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.20-04.00.19:473][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.20-04.00.19:532][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.20-04.00.19:586][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.20-04.00.19:637][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.20-04.00.19:688][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.20-04.00.19:791][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.20-04.00.19:791][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.20-04.00.19:829][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.20-04.00.19:926][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.20-04.00.19:957][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.20-04.00.20:009][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.20-04.00.20:062][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.20-04.00.20:112][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.20-04.00.20:170][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.20-04.00.20:171][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.20-04.00.20:738][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.20-04.00.21:023][  0]LogDerivedDataCache: Loaded boot cache 0.28s 93MB C:/Users/Bryan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.20-04.00.21:023][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bryan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.20-04.00.21:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bryan/Desktop/BmanSideScroller/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.20-04.00.21:023][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.20-04.00.21:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bryan/Desktop/BmanSideScroller/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.20-04.00.21:023][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.20-04.00.21:046][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.20-04.00.21:058][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bryan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.20-04.00.21:072][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.20-04.00.21:075][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.20-04.00.21:078][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.20-04.00.21:079][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.20-04.00.21:723][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2017.10.20-04.00.21:989][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.20-04.00.22:000][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.20-04.00.22:504][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.20-04.00.22:549][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.20-04.00.22:549][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.20-04.00.22:549][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.20-04.00.22:549][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.20-04.00.22:549][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.20-04.00.23:108][  0]LogNetVersion: SideScroller2D , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3390668775)
+[2017.10.20-04.00.23:378][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.033518 seconds
+[2017.10.20-04.00.23:386][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.20-04.00.23:386][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.20-04.00.23:386][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.20-04.00.23:459][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.20-04.00.27:054][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.20-04.00.27:098][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.20-04.00.27:795][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.20-04.00.28:236][  0]SourceControl: Source control is disabled
+[2017.10.20-04.00.28:236][  0]SourceControl: Source control is disabled
+[2017.10.20-04.00.28:293][  0]SourceControl: Source control is disabled
+[2017.10.20-04.00.28:340][  0]SourceControl: Source control is disabled
+[2017.10.20-04.00.28:959][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.20-04.00.29:202][  0]LogOcInput: OculusInput pre-init called
+[2017.10.20-04.00.29:477][  0]LogEngine: Initializing Engine...
+[2017.10.20-04.00.29:479][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.20-04.00.29:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.20-04.00.29:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.20-04.00.29:958][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.20-04.00.29:975][  0]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-04.00.29:982][  0]LogInit: FAudioDevice initialized.
+[2017.10.20-04.00.30:072][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/Bryan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.20-04.00.30:096][  0]LogInit: Texture streaming: Enabled
+[2017.10.20-04.00.30:225][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.20-04.00.30:475][  0]LogInit: Transaction tracking system initialized
+[2017.10.20-04.00.30:834][  0]BlueprintLog: New page: Editor Load
+[2017.10.20-04.00.31:820][  0]LocalizationService: Localization service is disabled
+[2017.10.20-04.00.32:545][  0]LogConsoleResponse: Display: 
+[2017.10.20-04.00.32:802][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.20-04.00.32:802][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.20-04.00.32:803][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.20-04.00.33:501][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Content/' took 0.02s
+[2017.10.20-04.00.33:912][  0]SourceControl: Source control is disabled
+[2017.10.20-04.00.33:914][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.20-04.00.33:915][  0]LightingResults: New page: Lighting Build
+[2017.10.20-04.00.33:958][  0]MapCheck: New page: Map Check
+[2017.10.20-04.00.33:958][  0]LightingResults: New page: Lighting Build
+[2017.10.20-04.00.34:471][  0]LogBlueprint: Warning: [Compiler BP_EnemyShot2] Node  Bullet Damage . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2017.10.20-04.00.34:554][  0]LogBlueprint: Warning: [Compiler BP_EnemyShot2] [0021.54] Compile of BP_EnemyShot2 successful, but with 1 Warning(s) [in 127 ms] (/Game/8BitSideScroller/Blueprint/BP_EnemyShot2.BP_EnemyShot2)
+[2017.10.20-04.00.35:187][  0]LogAIModule: Creating AISystem for world Level_01
+[2017.10.20-04.00.35:209][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.20-04.00.35:244][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.20-04.00.35:303][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.275ms to complete.
+[2017.10.20-04.00.35:303][  0]LogFileHelpers: Loading map 'Level_01' took 1.390
+[2017.10.20-04.00.35:516][  0]LogCollectionManager: Loaded 0 collections in 0.001631 seconds
+[2017.10.20-04.00.35:614][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Saved/Collections/' took 0.01s
+[2017.10.20-04.00.35:614][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Content/Developers/Bryan/Collections/' took 0.01s
+[2017.10.20-04.00.35:614][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Content/Collections/' took 0.01s
+[2017.10.20-04.00.35:615][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.20-04.00.35:628][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2386 classes and 500 folders.
+[2017.10.20-04.00.35:697][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.20-04.00.35:803][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.10.20-04.00.35:859][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.20-04.00.36:009][  0]LogSlate: Took 0.001271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.20-04.00.36:012][  0]LogSlate: Took 0.000991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.20-04.00.36:021][  0]LogSlate: Took 0.001129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.20-04.00.36:224][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.10.20-04.00.36:480][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2017.10.20-04.00.36:480][  0]LogLoad: (Engine Initialization) Total time: 23.46 seconds
+[2017.10.20-04.00.36:481][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.20-04.00.36:481][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.20-04.00.36:481][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.20-04.00.36:532][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.20-04.00.36:633][  0]LogSlate: Took 0.001341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.20-04.00.36:712][  2]LogAssetRegistry: Asset discovery search completed in 15.0085 seconds
+[2017.10.20-04.00.36:715][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.20-04.00.36:715][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2017.10.20-04.00.37:833][ 78]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.20-04.00.38:373][ 78]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.10.20-04.00.40:613][ 78]LogSlate: Took 0.001178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.20-04.00.41:936][ 82]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Bryan/Desktop/BmanSideScroller/Content/' took 5.43s
+[2017.10.20-04.01.47:374][123]LogAIModule: Creating AISystem for world Level_BossTest
+[2017.10.20-04.01.47:616][123]LogSavePackage: Save=50.73ms
+[2017.10.20-04.01.47:616][123]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_036E73FDBF488043FCB68BB3A48228D7EF.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_03.umap'
+[2017.10.20-04.01.47:618][123]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_03.umap
+[2017.10.20-04.01.47:622][123]LogFileHelpers: Saving map 'Level_03' took 0.147
+[2017.10.20-04.02.08:582][895]LogAIModule: Creating AISystem for world elevatorTest
+[2017.10.20-04.02.08:835][895]LogSavePackage: Save=50.80ms
+[2017.10.20-04.02.08:835][895]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level__04616B004C4DE54C203C0F2F9B0CFFC800.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level__04.umap'
+[2017.10.20-04.02.08:837][895]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level__04.umap
+[2017.10.20-04.02.08:844][895]LogFileHelpers: Saving map 'Level__04' took 0.153
+[2017.10.20-04.02.35:455][233]LogEditorViewport: Clicking Background
+[2017.10.20-04.02.48:693][394]LogEditorViewport: Clicking Background
+[2017.10.20-04.02.55:140][955]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Block_A_7)
+[2017.10.20-04.02.55:932][  5]LogEditorViewport: Clicking Background
+[2017.10.20-04.10.45:410][887]LogSlate: Took 0.001086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.20-04.10.56:868][592]LogEditorViewport: Clicking Background
+[2017.10.20-04.10.58:337][678]LogEditorViewport: Clicking Background
+[2017.10.20-04.11.01:998][870]LogSavePackage: Save=79.83ms
+[2017.10.20-04.11.01:998][870]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_01992DEF134C9A3B714FEEACA65521A54D.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_01.umap'
+[2017.10.20-04.11.01:998][870]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_01.umap
+[2017.10.20-04.11.08:345][107]LogSavePackage: Save=47.55ms
+[2017.10.20-04.11.08:345][107]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_032F1B9F1D4939F51B0E220080B0CA55C8.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_03.umap'
+[2017.10.20-04.11.08:346][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_03.umap
+[2017.10.20-04.11.08:351][107]LogFileHelpers: Saving map 'Level_03' took 0.182
+[2017.10.20-04.11.08:531][107]LogSavePackage: Save=49.21ms
+[2017.10.20-04.11.08:531][107]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level__047A53BAF34F0102365318E18B2E8316D5.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level__04.umap'
+[2017.10.20-04.11.08:532][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level__04.umap
+[2017.10.20-04.11.08:540][107]LogFileHelpers: Saving map 'Level__04' took 0.187
+[2017.10.20-04.11.08:548][107]Cmd: MAP LOAD FILE="../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.20-04.11.08:601][107]LightingResults: New page: Lighting Build
+[2017.10.20-04.11.08:602][107]LoadErrors: New page: Loading map: Level_02.umap
+[2017.10.20-04.11.08:605][107]MapCheck: New page: Map Check
+[2017.10.20-04.11.08:605][107]LightingResults: New page: Lighting Build
+[2017.10.20-04.11.17:801][107]LogAIModule: Creating AISystem for world Level_02
+[2017.10.20-04.11.17:810][107]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/8BitSideScroller/StaticMesh/Plane.Plane] ScaledElem[0] invalid
+[2017.10.20-04.11.17:896][107]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.20-04.11.17:972][107]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.20-04.11.18:031][107]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.691ms to complete.
+[2017.10.20-04.11.18:032][107]LogFileHelpers: Loading map 'Level_02' took 9.485
+[2017.10.20-04.11.23:813][458]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.10.20-04.11.33:241][977]LogEditorViewport: Clicking Background
+[2017.10.20-04.11.34:798][ 71]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.10.20-04.11.35:493][106]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.10.20-04.11.35:654][113]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2017.10.20-04.11.37:829][228]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.20-04.11.39:178][299]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.20-04.11.43:131][513]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.20-04.11.44:941][610]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2017.10.20-04.11.46:511][695]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2017.10.20-04.11.47:434][745]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2017.10.20-04.11.48:018][776]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2017.10.20-04.11.48:672][811]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCapsule)
+[2017.10.20-04.11.49:289][844]LogEditorViewport: Clicking Background
+[2017.10.20-04.11.50:278][904]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.10.20-04.11.52:331][ 17]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.20-04.11.54:260][124]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.20-04.11.54:812][153]LogEditorViewport: Clicking Background
+[2017.10.20-04.12.14:701][297]LogEditorViewport: Clicking Background
+[2017.10.20-04.12.19:004][541]LogSavePackage: Save=90.42ms
+[2017.10.20-04.12.19:005][541]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_02D72C26EC4D7D4EF3DBF97487F1F80328.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_02.umap'
+[2017.10.20-04.12.19:007][541]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_02.umap
+[2017.10.20-04.12.27:976][783]LogSavePackage: Save=47.51ms
+[2017.10.20-04.12.27:976][783]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_035852036A462761EF684195A9B3385656.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_03.umap'
+[2017.10.20-04.12.27:977][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_03.umap
+[2017.10.20-04.12.27:981][783]LogFileHelpers: Saving map 'Level_03' took 0.181
+[2017.10.20-04.12.28:164][783]LogSavePackage: Save=48.79ms
+[2017.10.20-04.12.28:165][783]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level__040AE47F744B6B4F837A4F1084704BEB20.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level__04.umap'
+[2017.10.20-04.12.28:166][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level__04.umap
+[2017.10.20-04.12.28:173][783]LogFileHelpers: Saving map 'Level__04' took 0.189
+[2017.10.20-04.12.28:182][783]Cmd: MAP LOAD FILE="../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.20-04.12.28:233][783]LightingResults: New page: Lighting Build
+[2017.10.20-04.12.28:234][783]LoadErrors: New page: Loading map: Level_03.umap
+[2017.10.20-04.12.28:235][783]MapCheck: New page: Map Check
+[2017.10.20-04.12.28:235][783]LightingResults: New page: Lighting Build
+[2017.10.20-04.12.33:726][783]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.20-04.12.33:788][783]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.20-04.12.33:846][783]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.209ms to complete.
+[2017.10.20-04.12.33:846][783]LogFileHelpers: Loading map 'Level_03' took 5.665
+[2017.10.20-04.12.45:129][419]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Block_A_12)
+[2017.10.20-04.12.50:765][704]LogSavePackage: Save=52.48ms
+[2017.10.20-04.12.50:765][704]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_03010A8C8142606DDD4C2F8A9C0F96F6EF.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_03.umap'
+[2017.10.20-04.12.50:766][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_03.umap
+[2017.10.20-04.12.59:636][132]LogSavePackage: Save=49.48ms
+[2017.10.20-04.12.59:636][132]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level__04EB5BD2A545B65027228A4B8A6CF34E5A.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level__04.umap'
+[2017.10.20-04.12.59:637][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level__04.umap
+[2017.10.20-04.12.59:644][132]LogFileHelpers: Saving map 'Level__04' took 0.208
+[2017.10.20-04.13.24:876][404]LogSavePackage: Save=49.85ms
+[2017.10.20-04.13.24:876][404]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_041FA1AED64D37E651A8B59F93E4925FEC.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_04.umap'
+[2017.10.20-04.13.24:878][404]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_04.umap
+[2017.10.20-04.13.24:885][404]LogFileHelpers: Saving map 'Level_04' took 0.151
+[2017.10.20-04.13.33:914][767]LogSavePackage: Save=48.36ms
+[2017.10.20-04.13.33:914][767]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_04C16FCD68441A05B3BB61148E4793285B.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_04.umap'
+[2017.10.20-04.13.33:915][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_04.umap
+[2017.10.20-04.13.33:923][767]LogFileHelpers: Saving map 'Level_04' took 0.189
+[2017.10.20-04.13.33:933][767]Cmd: MAP LOAD FILE="../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_04.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.20-04.13.33:999][767]LightingResults: New page: Lighting Build
+[2017.10.20-04.13.34:000][767]LoadErrors: New page: Loading map: Level_04.umap
+[2017.10.20-04.13.34:001][767]MapCheck: New page: Map Check
+[2017.10.20-04.13.34:001][767]LightingResults: New page: Lighting Build
+[2017.10.20-04.13.34:136][767]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.20-04.13.34:199][767]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.20-04.13.34:256][767]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.89ms to complete.
+[2017.10.20-04.13.34:256][767]LogFileHelpers: Loading map 'Level_04' took 0.324
+[2017.10.20-04.14.01:000][311]LogEditorViewport: Clicking Background
+[2017.10.20-04.14.02:622][403]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (BP_Elevator)
+[2017.10.20-04.14.04:449][497]LogEditorViewport: Clicking Background
+[2017.10.20-04.14.10:369][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-04.14.10:370][832]PIE: New page: SIE session: Level_04 (Oct 19, 2017, 8:14:10 PM)
+[2017.10.20-04.14.10:370][832]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_04
+[2017.10.20-04.14.10:373][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002642s)
+[2017.10.20-04.14.10:373][832]LogAIModule: Creating AISystem for world Level_04
+[2017.10.20-04.14.10:374][832]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2017.10.20-04.14.10:374][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_04.Level_04 to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_04.Level_04 (0.003723s)
+[2017.10.20-04.14.10:407][832]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-04.14.10:412][832]LogInit: FAudioDevice initialized.
+[2017.10.20-04.14.10:456][832]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.10.20-04.14.10:459][832]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_04.Level_04 up for play (max tick rate 0) at 2017.10.20-00.14.10
+[2017.10.20-04.14.10:460][832]LogWorld: Bringing up level for play took: 0.003464
+[2017.10.20-04.14.10:461][832]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.20-04.14.10:503][832]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.10.20-04.14.10:504][832]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_04 -0.578
+[2017.10.20-04.14.14:121][ 18]LogEditorViewport: Clicking Background
+[2017.10.20-04.14.28:352][855]LogAIModule: Creating AISystem for world Level_01
+[2017.10.20-04.14.31:312][  6]LogAIModule: Creating AISystem for world Level_05
+[2017.10.20-04.14.34:913][190]LogSavePackage: Save=85.44ms
+[2017.10.20-04.14.34:913][190]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_0527BCB00740E0E69E764969B7F9FBE69A.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_05.umap'
+[2017.10.20-04.14.34:914][190]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_05.umap
+[2017.10.20-04.14.34:921][190]LogFileHelpers: Saving map 'Level_05' took 0.188
+[2017.10.20-04.14.35:095][190]LogSavePackage: Save=51.15ms
+[2017.10.20-04.14.35:095][190]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_0433018B164F817D31473E0492B9CDD5A4.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_04.umap'
+[2017.10.20-04.14.35:096][190]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_04.umap
+[2017.10.20-04.14.35:132][190]LogFileHelpers: Saving map 'Level_04' took 0.208
+[2017.10.20-04.14.39:541][338]LogSavePackage: Save=79.42ms
+[2017.10.20-04.14.39:541][338]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_052A65164E4DCB89B281B12599DDA23CA3.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_05.umap'
+[2017.10.20-04.14.39:543][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_05.umap
+[2017.10.20-04.14.39:550][338]LogFileHelpers: Saving map 'Level_05' took 0.217
+[2017.10.20-04.14.39:561][338]Cmd: MAP LOAD FILE="../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_05.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.20-04.14.39:599][338]LightingResults: New page: Lighting Build
+[2017.10.20-04.14.39:600][338]LoadErrors: New page: Loading map: Level_05.umap
+[2017.10.20-04.14.39:600][338]MapCheck: New page: Map Check
+[2017.10.20-04.14.39:600][338]LightingResults: New page: Lighting Build
+[2017.10.20-04.14.39:836][338]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.20-04.14.39:899][338]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.20-04.14.39:957][338]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.721ms to complete.
+[2017.10.20-04.14.39:957][338]LogFileHelpers: Loading map 'Level_05' took 0.397
+[2017.10.20-04.14.43:387][542]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Block_A_04)
+[2017.10.20-04.14.44:369][592]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_6)
+[2017.10.20-04.14.44:785][611]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_7)
+[2017.10.20-04.14.45:173][629]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_8)
+[2017.10.20-04.14.45:670][653]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_9)
+[2017.10.20-04.14.46:041][670]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_11)
+[2017.10.20-04.14.46:453][689]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_13)
+[2017.10.20-04.14.55:108][ 83]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Block_A_13)
+[2017.10.20-04.14.58:398][259]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_11)
+[2017.10.20-04.14.59:036][289]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_9)
+[2017.10.20-04.14.59:503][311]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_8)
+[2017.10.20-04.14.59:928][331]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_7)
+[2017.10.20-04.15.00:364][351]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_6)
+[2017.10.20-04.15.00:737][368]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Block_A_04)
+[2017.10.20-04.15.12:282][956]LogEditorViewport: Clicking Background
+[2017.10.20-04.15.19:148][345]LogSavePackage: Save=94.48ms
+[2017.10.20-04.15.19:148][345]LogSavePackage: Moving '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Saved/Level_05239FA2044560363A1322C8BCDEFC70CA.tmp' to '../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_05.umap'
+[2017.10.20-04.15.19:156][345]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_05.umap
+[2017.10.20-04.15.19:188][345]LogFileHelpers: Saving map 'Level_05' took 0.255
+[2017.10.20-04.15.26:382][738]Cmd: MAP LOAD FILE="../../../../../../Users/Bryan/Desktop/BmanSideScroller/Content/8BitSideScroller/Maps/Level_LevelSelect.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.20-04.15.26:433][738]LightingResults: New page: Lighting Build
+[2017.10.20-04.15.26:435][738]LoadErrors: New page: Loading map: Level_LevelSelect.umap
+[2017.10.20-04.15.26:437][738]MapCheck: New page: Map Check
+[2017.10.20-04.15.26:437][738]LightingResults: New page: Lighting Build
+[2017.10.20-04.15.26:490][738]LogAIModule: Creating AISystem for world Level_LevelSelect
+[2017.10.20-04.15.26:631][738]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.20-04.15.26:692][738]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.20-04.15.26:751][738]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.653ms to complete.
+[2017.10.20-04.15.26:751][738]LogFileHelpers: Loading map 'Level_LevelSelect' took 0.370
+[2017.10.20-04.15.28:101][822]LogTemp: Repeating last play command: Simulate
+[2017.10.20-04.15.28:128][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.15.28:128][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-04.15.28:128][822]PIE: New page: SIE session: Level_LevelSelect (Oct 19, 2017, 8:15:28 PM)
+[2017.10.20-04.15.28:128][822]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect
+[2017.10.20-04.15.28:129][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001104s)
+[2017.10.20-04.15.28:130][822]LogAIModule: Creating AISystem for world Level_LevelSelect
+[2017.10.20-04.15.28:130][822]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2017.10.20-04.15.28:130][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect.Level_LevelSelect (0.002056s)
+[2017.10.20-04.15.28:156][822]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-04.15.28:161][822]LogInit: FAudioDevice initialized.
+[2017.10.20-04.15.28:189][822]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.10.20-04.15.28:190][822]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect.Level_LevelSelect up for play (max tick rate 0) at 2017.10.20-00.15.28
+[2017.10.20-04.15.28:191][822]LogWorld: Bringing up level for play took: 0.000813
+[2017.10.20-04.15.28:191][822]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.20-04.15.28:192][822]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Level_LevelSelect_C /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect_C_0
+	Function /Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C:ExecuteUbergraph_Level_LevelSelect:0045
+[2017.10.20-04.15.28:192][822]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue from function: 'ExecuteUbergraph_Level_LevelSelect' from node: Set Actor Hidden In Game in graph: EventGraph in object: Level_LevelSelect with description: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+[2017.10.20-04.15.28:196][822]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect -0.887
+[2017.10.20-04.15.28:200][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.15.32:157][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.15.32:188][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.15.34:266][153]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.15.34:266][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-04.15.34:266][153]PIE: New page: PIE session: Level_LevelSelect (Oct 19, 2017, 8:15:34 PM)
+[2017.10.20-04.15.34:266][153]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect
+[2017.10.20-04.15.34:268][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001112s)
+[2017.10.20-04.15.34:268][153]LogAIModule: Creating AISystem for world Level_LevelSelect
+[2017.10.20-04.15.34:268][153]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2017.10.20-04.15.34:268][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect.Level_LevelSelect (0.002040s)
+[2017.10.20-04.15.34:299][153]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-04.15.34:304][153]LogInit: FAudioDevice initialized.
+[2017.10.20-04.15.34:333][153]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.10.20-04.15.34:334][153]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect.Level_LevelSelect up for play (max tick rate 0) at 2017.10.20-00.15.34
+[2017.10.20-04.15.34:334][153]LogWorld: Bringing up level for play took: 0.000734
+[2017.10.20-04.15.34:338][153]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect -0.745
+[2017.10.20-04.15.34:339][153]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.15.40:987][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.15.41:020][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.15.52:489][282]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.20-04.17.15:651][140]BlueprintLog: New page: Compile Widget_LevelSelect
+[2017.10.20-04.17.19:409][461]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.20-04.17.19:441][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.17.19:441][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-04.17.19:441][461]PIE: New page: PIE session: Level_LevelSelect (Oct 19, 2017, 8:17:19 PM)
+[2017.10.20-04.17.19:441][461]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect
+[2017.10.20-04.17.19:443][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001303s)
+[2017.10.20-04.17.19:443][461]LogAIModule: Creating AISystem for world Level_LevelSelect
+[2017.10.20-04.17.19:444][461]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2017.10.20-04.17.19:444][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect.Level_LevelSelect (0.002653s)
+[2017.10.20-04.17.19:477][461]LogInit: XAudio2 using 'Acer T232HL-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-04.17.19:482][461]LogInit: FAudioDevice initialized.
+[2017.10.20-04.17.19:511][461]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.10.20-04.17.19:512][461]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect.Level_LevelSelect up for play (max tick rate 0) at 2017.10.20-00.17.19
+[2017.10.20-04.17.19:512][461]LogWorld: Bringing up level for play took: 0.000796
+[2017.10.20-04.17.19:515][461]PIE: Play in editor start time for /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect 0.43
+[2017.10.20-04.17.19:516][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel' has LevelScriptBlueprint '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect' with GeneratedClass '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect_C' with ClassGeneratedBy '/Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect:PersistentLevel.Level_LevelSelect'
+[2017.10.20-04.17.21:279][666]LogNet: Browse: /Game/8BitSideScroller/Maps/Level_03
+[2017.10.20-04.17.21:279][666]LogLoad: LoadMap: /Game/8BitSideScroller/Maps/Level_03
+[2017.10.20-04.17.21:305][666]Cmd: MEM
+[2017.10.20-04.17.21:333][666]LogMemory: Platform Memory Stats for Windows
+[2017.10.20-04.17.21:334][666]LogMemory: Process Physical Memory: 1820.17 MB used, 1825.46 MB peak
+[2017.10.20-04.17.21:334][666]LogMemory: Process Virtual Memory: 2572.02 MB used, 2623.03 MB peak
+[2017.10.20-04.17.21:334][666]LogMemory: Physical Memory: 9955.94 MB used,  6409.59 MB free, 16365.53 MB total
+[2017.10.20-04.17.21:334][666]LogMemory: Virtual Memory: 3297.68 MB used,  6409.59 MB free, 8388608.00 MB total
+[2017.10.20-04.17.21:334][666]LogMemory: 
+[2017.10.20-04.17.21:334][666]Allocator Stats for TBB: (not implemented)
+[2017.10.20-04.17.21:831][666]LogAIModule: Creating AISystem for world Level_03
+[2017.10.20-04.17.21:832][666]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.10.20-04.17.21:836][666]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2017.10.20-00.17.21
+[2017.10.20-04.17.21:837][666]LogWorld: Bringing up level for play took: 0.004617
+[2017.10.20-04.17.21:839][666]LogLoad: Took 0.560045 seconds to LoadMap(/Game/8BitSideScroller/Maps/Level_03)
+[2017.10.20-04.17.21:840][666]LogBlueprintUserMessages: [BP_Boss_2122] 50
+[2017.10.20-04.17.25:374][ 68]LogNet: Browse: /Game/8BitSideScroller/Maps/Level_LevelSelect
+[2017.10.20-04.17.25:374][ 68]LogLoad: LoadMap: /Game/8BitSideScroller/Maps/Level_LevelSelect
+[2017.10.20-04.17.25:398][ 68]Cmd: MEM
+[2017.10.20-04.17.25:420][ 68]LogMemory: Platform Memory Stats for Windows
+[2017.10.20-04.17.25:420][ 68]LogMemory: Process Physical Memory: 1905.27 MB used, 2038.68 MB peak
+[2017.10.20-04.17.25:420][ 68]LogMemory: Process Virtual Memory: 2643.72 MB used, 2871.49 MB peak
+[2017.10.20-04.17.25:420][ 68]LogMemory: Physical Memory: 9987.49 MB used,  6378.04 MB free, 16365.53 MB total
+[2017.10.20-04.17.25:420][ 68]LogMemory: Virtual Memory: 3383.88 MB used,  6378.04 MB free, 8388608.00 MB total
+[2017.10.20-04.17.25:420][ 68]LogMemory: 
+[2017.10.20-04.17.25:420][ 68]Allocator Stats for TBB: (not implemented)
+[2017.10.20-04.17.25:420][ 68]LogPlayLevel: Creating play world package: /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect
+[2017.10.20-04.17.25:422][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001360s)
+[2017.10.20-04.17.25:422][ 68]LogAIModule: Creating AISystem for world Level_LevelSelect
+[2017.10.20-04.17.25:422][ 68]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2017.10.20-04.17.25:423][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/8BitSideScroller/Maps/Level_LevelSelect.Level_LevelSelect to /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect.Level_LevelSelect (0.002370s)
+[2017.10.20-04.17.25:423][ 68]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2017.10.20-04.17.25:424][ 68]LogWorld: Bringing World /Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect.Level_LevelSelect up for play (max tick rate 0) at 2017.10.20-00.17.25
+[2017.10.20-04.17.25:425][ 68]LogWorld: Bringing up level for play took: 0.001359
+[2017.10.20-04.17.25:425][ 68]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.20-04.17.25:430][ 68]LogLoad: Took 0.055238 seconds to LoadMap(/Game/8BitSideScroller/Maps/UEDPIE_0_Level_LevelSelect)
+[2017.10.20-04.17.29:751][574]LogNet: Browse: /Game/8BitSideScroller/Maps/Level_01
+[2017.10.20-04.17.29:751][574]LogLoad: LoadMap: /Game/8BitSideScroller/Maps/Level_01
+[2017.10.20-04.17.29:771][574]Cmd: MEM
+[2017.10.20-04.17.29:792][574]LogMemory: Platform Memory Stats for Windows
+[2017.10.20-04.17.29:792][574]LogMemory: Process Physical Memory: 1901.27 MB used, 2038.68 MB peak
+[2017.10.20-04.17.29:792][574]LogMemory: Process Virtual Memory: 2687.80 MB used, 2871.49 MB peak
+[2017.10.20-04.17.29:792][574]LogMemory: Physical Memory: 9970.98 MB used,  6394.54 MB free, 16365.53 MB total
+[2017.10.20-04.17.29:792][574]LogMemory: Virtual Memory: 3427.88 MB used,  6394.54 MB free, 8388608.00 MB total
+[2017.10.20-04.17.29:792][574]LogMemory: 
+[2017.10.20-04.17.29:792][574]Allocator Stats for TBB: (not implemented)
+[2017.10.20-04.17.30:598][574]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.566 s
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: 
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: 
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: Stack: 
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D3DE3E36
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D3B6C2D2
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D3B84746
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000C2D5D5D9
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000C2D2C90D
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D33C0F67
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D36CB666
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D36E1766
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D36E0CB2
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CEADE10B
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CEA96AE8
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CEAFD89D
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CB86BF80
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CC0FD646
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor.exe!0x000000003F09534A
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor.exe!0x000000003F0A3970
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor.exe!0x000000003F0A39EA
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor.exe!0x000000003F0B02D9
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: UE4Editor.exe!0x000000003F0B1C47
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: kernel32.dll!0x0000000076E45A4D
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: ntdll.dll!0x0000000076F7B831
+[2017.10.20-04.17.30:599][574]LogOutputDevice: Error: 
+[2017.10.20-04.17.30:604][574]LogStats:                SubmitErrorReport -  0.000 s
